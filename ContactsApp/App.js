@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, TextInput } from 'react-native';
+import { StyleSheet, Text, View, ScrollView, TextInput } from 'react-native';
 import HRBtn from './src/UI/HRButtons/HRBtn';
 import HRListItem from './src/UI/HRLists/HRListItems/HRListItem';
 
@@ -14,6 +14,9 @@ export default class App extends React.Component {
     this.setState({contactNameTextInput: text});
   }
   addContact = () => {
+    if(this.state.contactNameTextInput === ''){
+      return;
+    }
     this.setState({
       contactNameTextInput: '', 
       contacts: [...this.state.contacts,this.state.contactNameTextInput]
@@ -31,31 +34,30 @@ export default class App extends React.Component {
   }
   render() {
     return (
-      <View style={styles.container}>
-        <TextInput 
-        style={{width:'80%'}}
-        onChangeText={this.contactNameTextChange}
-        value={this.state.contactNameTextInput} 
-        />
-        <HRBtn large onPress={this.addContact}>
-        Ajouter
-        </HRBtn>
-        <Text>Appuiez pour supprimer</Text>
-        {this.state.contacts.map((contact, i) => {
-          return (
-            <HRListItem key={i} onPress={() => this.removeContact(i)} title={contact} />
-          );
-        })}
-      </View>
+      <ScrollView style={{flex:1}}>
+        <View style={styles.container}>
+          <TextInput 
+          style={{width:'80%'}}
+          onChangeText={this.contactNameTextChange}
+          value={this.state.contactNameTextInput} 
+          />
+          <HRBtn large onPress={this.addContact}>
+          Ajouter
+          </HRBtn>
+          <Text>Appuiez pour supprimer</Text>
+          {this.state.contacts.map((contact, i) => {
+            return (
+              <HRListItem key={i} onPress={() => this.removeContact(i)} title={contact} />
+            );
+          })}
+        </View>   
+      </ScrollView>  
     );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    alignItems: 'center'
   },
 });
