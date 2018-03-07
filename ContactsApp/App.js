@@ -1,12 +1,15 @@
 import React from 'react';
 import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
 import HRBtn from './src/UI/HRButtons/HRBtn';
-import HRListItem from './src/UI/HRLists/HRListItems/HRListItem';
+import ContactDetail from './src/Screens/ContactDetail';
+import HRListItemWithImg from './src/UI/HRLists/HRListItems/HRListItemWithImg';
 
 export default class App extends React.Component {
   state= {
     contactNameTextInput: '',
-    contacts: ['hi','there']
+    contacts: [{name:'Fred', image:'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'},{name:'Bill', image:'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'}],
+    selectedContact: {},
+    showContactDetail: false
   }
   //Quand on utilise cette syntax pour déclarer une fonction
   //la variable this fait référence à la class App
@@ -19,7 +22,7 @@ export default class App extends React.Component {
     }
     this.setState({
       contactNameTextInput: '', 
-      contacts: [...this.state.contacts,this.state.contactNameTextInput]
+      contacts: [...this.state.contacts,{name: this.state.contactNameTextInput, image: 'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'}]
     });
     
   }
@@ -44,20 +47,29 @@ export default class App extends React.Component {
           <HRBtn large onPress={this.addContact}>
           Ajouter
           </HRBtn>
-          <Text>Appuiez pour supprimer</Text>
+          <Text>Appuiez pour voir les détails</Text>
           <FlatList
           style={{flex:1}}
-            data={this.state}
+            data={this.state.contacts}
             renderItem={(info) => (
-              <HRListItem key={info.index} onPress={() => this.removeContact(info.index)} title={info.item} />
+              <HRListItemWithImg 
+              rightBtn 
+              onRightBtnPress={() => this.removeContact(info.index)} 
+              rightBtnText='Supprimer' 
+              imgSrc={{uri:info.item.image}} 
+              key={info.index} 
+              onPress={() => this.setState({selectedContact: info.item, showContactDetail: true})} 
+              title={info.item.name} />
             )}
           />
-          {this.state.contacts.map((contact, i) => {
-            return (
-              <HRListItem key={i} onPress={() => this.removeContact(i)} title={contact} />
-            );
-          })}
-        </View>   
+
+        </View>
+        <ContactDetail 
+        visible={this.state.showContactDetail} 
+        onCloseBtn={() => this.setState({showContactDetail: false})}
+        img={{uri: this.state.selectedContact.image}}
+        textContent={this.state.selectedContact.name}
+        />   
       </ScrollView>  
     );
   }
