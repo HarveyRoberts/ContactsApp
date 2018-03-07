@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, ScrollView, TextInput } from 'react-native';
+import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
 import HRBtn from './src/UI/HRButtons/HRBtn';
 import HRListItem from './src/UI/HRLists/HRListItems/HRListItem';
 
@@ -45,6 +45,13 @@ export default class App extends React.Component {
           Ajouter
           </HRBtn>
           <Text>Appuiez pour supprimer</Text>
+          <FlatList
+          style={{flex:1}}
+            data={this.state}
+            renderItem={(info) => (
+              <HRListItem key={info.index} onPress={() => this.removeContact(info.index)} title={info.item} />
+            )}
+          />
           {this.state.contacts.map((contact, i) => {
             return (
               <HRListItem key={i} onPress={() => this.removeContact(i)} title={contact} />
