@@ -21,13 +21,13 @@ export default class App extends React.Component {
     
   }
   removeContact = (contact) => {
-    const contacts = this.state.contacts;
-    for (let i = 0; i < this.state.contacts.length; i++) {
-      if(i === contact) {
-        contacts.splice(i,1);
-        this.setState({contacts})
+    this.setState(prevState => {
+      return {
+        contacts: prevState.contacts.filter((aContact,i) => {
+          return i !==contact;
+        })
       }
-    }
+    })
   }
   render() {
     return (
