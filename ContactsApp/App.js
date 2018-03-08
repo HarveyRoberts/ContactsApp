@@ -9,10 +9,10 @@ import configureStore from './src/store/config';
 
 const store = configureStore();
 
-Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen,store,Provider)
-Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen,store,Provider)
-Navigation.registerComponent("ContactsApp.ContactDetailScreen", () => ContactDetailScreen)
-Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen,store,Provider)
+Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen,store,Provider);
+Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen,store,Provider);
+Navigation.registerComponent("ContactsApp.ContactDetailScreen", () => ContactDetailScreen, store, Provider);
+Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen,store,Provider);
 
 
 

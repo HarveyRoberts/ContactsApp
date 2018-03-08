@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-na
 import {connect} from 'react-redux';
 import HRBtn from '../../UI/HRButtons/HRBtn';
 import HRListItemWithImg from '../../UI/HRLists/HRListItems/HRListItemWithImg';
-import {addContact, deleteContact} from '../../store/actions';
+import {addContact} from '../../store/actions';
 
 class ContactsScreen extends React.Component {
   state= {
@@ -81,8 +81,7 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
   return {
-    onAddContact: (name) => dispatch(addContact(name)),
-    onDeleteContact: () => dispatch(deleteContact())
+    onAddContact: (name) => dispatch(addContact(name))
   }
 }
 

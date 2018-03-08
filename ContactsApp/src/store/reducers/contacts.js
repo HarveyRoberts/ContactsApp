@@ -1,7 +1,7 @@
 import {ADD_CONTACT, DELETE_CONTACT} from '../actions/actionTypes';
 
 const initialState = {
-    contacts: [{name:'Fred', image:'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'},{name:'Bill', image:'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'}],
+    contacts: [{id:'kjhgfd78452hg',name:'Fred', image:'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'},{id:'f419h8ytdh48f9h3',name:'Bill', image:'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'}],
 }
 
 const contactReducer = (state = initialState, action) => {
@@ -21,7 +21,7 @@ const contactReducer = (state = initialState, action) => {
             return {
                 ...state,
                 contacts: state.contacts.filter((contact) => {
-                    return contact !== state.selectedContact;
+                    return contact.id !== action.payload;
                 })
             };
         default:

@@ -7,8 +7,9 @@ export const addContact = (name) => {
     }
 }
 
-export const deleteContact = () => {
+export const deleteContact = (id) => {
     return {
-        type: DELETE_CONTACT
+        type: DELETE_CONTACT,
+        payload: id
     }
 }
