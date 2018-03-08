@@ -1,9 +1,12 @@
 import { Navigation } from 'react-native-navigation';
 
 import AuthScreen from './src/screens/Auth/Auth';
+import ContactsScreen from './src/screens/Contacts/Contacts';
+import OptionsScreen from './src/screens/Options/Options';
 
 Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen)
-
+Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen)
+Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen)
 
 Navigation.startSingleScreenApp({
   screen: {

@@ -1,13 +1,14 @@
 import React from 'react';
 import { View, TextInput } from 'react-native';
 import HRBtn from '../../UI/HRButtons/HRBtn';
+import startTabs from '../MainTabs/startMainTabs';
 
-class App extends React.Component {
+class AuthScreen extends React.Component {
   render() {
     return (
         <View >
 
-          <HRBtn large onPress={this.addContact}>
+          <HRBtn large onPress={startTabs}>
           Se connecter
           </HRBtn>
           
@@ -17,4 +18,4 @@ class App extends React.Component {
 }
 
 
-export default App;
+export default AuthScreen;
