@@ -1,15 +1,14 @@
 import React from 'react';
 import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
+import {connect} from 'react-redux';
 import HRBtn from './src/UI/HRButtons/HRBtn';
 import ContactDetail from './src/Screens/ContactDetail';
 import HRListItemWithImg from './src/UI/HRLists/HRListItems/HRListItemWithImg';
+import {addContact, selectContact, deleteContact, deselectContact} from './src/store/actions';
 
-export default class App extends React.Component {
+class App extends React.Component {
   state= {
-    contactNameTextInput: '',
-    contacts: [{name:'Fred', image:'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'},{name:'Bill', image:'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'}],
-    selectedContact: {},
-    showContactDetail: false
+    contactNameTextInput: ''
   }
   //Quand on utilise cette syntax pour déclarer une fonction
   //la variable this fait référence à la class App
@@ -20,20 +19,15 @@ export default class App extends React.Component {
     if(this.state.contactNameTextInput === ''){
       return;
     }
-    this.setState({
-      contactNameTextInput: '', 
-      contacts: [...this.state.contacts,{name: this.state.contactNameTextInput, image: 'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'}]
-    });
+    this.setState({contactNameTextInput: ''})
+    this.props.onAddContact(this.state.contactNameTextInput);
     
   }
-  removeContact = (contact) => {
-    this.setState(prevState => {
-      return {
-        contacts: prevState.contacts.filter((aContact,i) => {
-          return i !==contact;
-        })
-      }
-    })
+  removeContact = () => {
+    this.props.onDeleteContact();
+  }
+  selectContact = (contact) => {
+    this.props.onSelectContact(contact);
   }
   render() {
     return (
@@ -50,26 +44,27 @@ export default class App extends React.Component {
           <Text>Appuiez pour voir les détails</Text>
           <FlatList
           style={{flex:1}}
-            data={this.state.contacts}
+            data={this.props.contacts}
             renderItem={(info) => (
               <HRListItemWithImg 
-              rightBtn 
-              onRightBtnPress={() => this.removeContact(info.index)} 
-              rightBtnText='Supprimer' 
               imgSrc={{uri:info.item.image}} 
+              rightBtn
+              rightBtnText='Voir'
+              onRightBtnPress={() => this.props.onSelectContact(info.item)}
               key={info.index} 
-              onPress={() => this.setState({selectedContact: info.item, showContactDetail: true})} 
+              onPress={() => this.props.onSelectContact(info.item)}
               title={info.item.name} />
             )}
           />
 
         </View>
         <ContactDetail 
-        visible={this.state.showContactDetail} 
-        onCloseBtn={() => this.setState({showContactDetail: false})}
-        img={{uri: this.state.selectedContact.image}}
-        textContent={this.state.selectedContact.name}
-        />   
+        visible={this.props.selectedContact !== null} 
+        onCloseBtn={() => this.props.onDeselectContact()}
+        img={{uri: this.props.selectedContact ? this.props.selectedContact.image : null}}
+        textContent={this.props.selectedContact ? this.props.selectedContact.name : null}
+        onDeleteBtnPress={() => this.props.onDeleteContact()}
+        />
       </ScrollView>  
     );
   }
@@ -80,3 +75,21 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
 });
+
+const mapStateToProps = state => {
+  return {
+    contacts: state.contacts.contacts,
+    selectedContact: state.contacts.selectedContact
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onAddContact: (name) => dispatch(addContact(name)),
+    onDeleteContact: () => dispatch(deleteContact()),
+    onSelectContact: (contact) => dispatch(selectContact(contact)),
+    onDeselectContact: () => dispatch(deselectContact())
+  }
+}
+
+export default connect(mapStateToProps,mapDispatchToProps)(App);
