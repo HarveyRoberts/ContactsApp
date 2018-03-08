@@ -12,16 +12,3 @@ export const deleteContact = () => {
         type: DELETE_CONTACT
     }
 }
-
-export const selectContact = (name) => {
-    return {
-        type: SELECT_CONTACT,
-        payload: name
-    }
-}
-
-export const deselectContact = () => {
-    return {
-        type: DESELECT_CONTACT
-    }
-}

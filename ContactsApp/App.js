@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth';
 import ContactsScreen from './src/screens/Contacts/Contacts';
+import ContactDetailScreen from './src/screens/Contacts/ContactDetail';
 import OptionsScreen from './src/screens/Options/Options';
 import configureStore from './src/store/config';
 
@@ -10,6 +11,7 @@ const store = configureStore();
 
 Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen,store,Provider)
 Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen,store,Provider)
+Navigation.registerComponent("ContactsApp.ContactDetailScreen", () => ContactDetailScreen)
 Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen,store,Provider)
 
 

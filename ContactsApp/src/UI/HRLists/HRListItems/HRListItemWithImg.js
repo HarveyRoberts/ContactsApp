@@ -23,7 +23,7 @@ export default class HRListItem extends React.Component {
                         </Text>
                     </View>
                     <HRBtn 
-                            xs 
+                            xl
                             textColor={this.props.rightBtnTextColor || 'white'} 
                             bgColor={this.props.rightBtnBgColor || '#3F6570'} 
                             width={'21%'} 

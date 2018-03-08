@@ -2,9 +2,8 @@ import React from 'react';
 import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
 import {connect} from 'react-redux';
 import HRBtn from '../../UI/HRButtons/HRBtn';
-import ContactDetail from '../../main/ContactDetail';
 import HRListItemWithImg from '../../UI/HRLists/HRListItems/HRListItemWithImg';
-import {addContact, selectContact, deleteContact, deselectContact} from '../../store/actions';
+import {addContact, deleteContact} from '../../store/actions';
 
 class ContactsScreen extends React.Component {
   state= {
@@ -26,8 +25,11 @@ class ContactsScreen extends React.Component {
   removeContact = () => {
     this.props.onDeleteContact();
   }
-  selectContact = (contact) => {
-    this.props.onSelectContact(contact);
+  onSelectContact = (contact) => {
+    this.props.navigator.push({
+        screen: 'ContactsApp.ContactDetailScreen', 
+        passProps: contact
+      });
   }
   render() {
     return (
@@ -49,22 +51,17 @@ class ContactsScreen extends React.Component {
               <HRListItemWithImg 
               imgSrc={{uri:info.item.image}} 
               rightBtn
-              rightBtnText='Voir'
-              onRightBtnPress={() => this.props.onSelectContact(info.item)}
+              rightBtnText='>'
+              rightBtnTextColor='black'
+              rightBtnBgColor='transparent'
+              onRightBtnPress={() => this.onSelectContact(info.item)}
               key={info.index} 
-              onPress={() => this.props.onSelectContact(info.item)}
+              onPress={() => this.onSelectContact(info.item)}
               title={info.item.name} />
             )}
           />
 
         </View>
-        <ContactDetail 
-        visible={this.props.selectedContact !== null} 
-        onCloseBtn={() => this.props.onDeselectContact()}
-        img={{uri: this.props.selectedContact ? this.props.selectedContact.image : null}}
-        textContent={this.props.selectedContact ? this.props.selectedContact.name : null}
-        onDeleteBtnPress={() => this.props.onDeleteContact()}
-        />
       </ScrollView>  
     );
   }
@@ -78,17 +75,14 @@ const styles = StyleSheet.create({
 
 const mapStateToProps = state => {
   return {
-    contacts: state.contacts.contacts,
-    selectedContact: state.contacts.selectedContact
+    contacts: state.contacts.contacts
   }
 }
 
 const mapDispatchToProps = dispatch => {
   return {
     onAddContact: (name) => dispatch(addContact(name)),
-    onDeleteContact: () => dispatch(deleteContact()),
-    onSelectContact: (contact) => dispatch(selectContact(contact)),
-    onDeselectContact: () => dispatch(deselectContact())
+    onDeleteContact: () => dispatch(deleteContact())
   }
 }
 
