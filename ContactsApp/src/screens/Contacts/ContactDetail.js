@@ -19,7 +19,10 @@ class ContactDetail extends React.Component {
         <View style={{marginTop: 22}}>
           <View style={{alignItems:'center'}}>
               <Image style={{height:150,width:150}} source={{uri:this.props.image}}/>
-              <Text style={{fontSize: 25,marginTop:15}}>{this.props.name}</Text>
+              <Text style={{fontSize: 25,marginTop:15}}>{this.props.firstname + ' ' + this.props.surname}</Text>
+              <Text style={{fontSize: 25,marginTop:15}}>{this.props.email}</Text>
+              <Text style={{fontSize: 25,marginTop:15}}>{this.props.mobilePhone}</Text>
+              <Text style={{fontSize: 25,marginTop:15}}>{this.props.dateOfBirth}</Text>
               <HRBtn 
                 large  
                 bgColor='#ff4444' 

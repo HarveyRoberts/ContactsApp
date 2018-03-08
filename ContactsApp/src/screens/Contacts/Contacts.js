@@ -14,6 +14,11 @@ class ContactsScreen extends React.Component {
   contactNameTextChange = (text) => {
     this.setState({contactNameTextInput: text});
   }
+  navToAddContact = () => {
+    this.props.navigator.push({
+        screen: 'ContactsApp.AddContactScreen'
+      });
+  }
   addContact = () => {
     if(this.state.contactNameTextInput === ''){
       return;
@@ -35,14 +40,17 @@ class ContactsScreen extends React.Component {
     return (
       <ScrollView style={{flex:1}}>
         <View style={styles.container}>
-          <TextInput 
+        <HRBtn large onPress={this.navToAddContact}>
+          +
+          </HRBtn>
+          {/*<TextInput 
           style={{width:'80%'}}
           onChangeText={this.contactNameTextChange}
           value={this.state.contactNameTextInput} 
           />
           <HRBtn large onPress={this.addContact}>
           Ajouter
-          </HRBtn>
+          </HRBtn>*/}
           <Text>Appuiez pour voir les détails</Text>
           <FlatList
           style={{flex:1}}
@@ -57,7 +65,7 @@ class ContactsScreen extends React.Component {
               onRightBtnPress={() => this.onSelectContact(info.item)}
               key={info.index} 
               onPress={() => this.onSelectContact(info.item)}
-              title={info.item.name} />
+              title={info.item.firstname + ' ' + info.item.surname} />
             )}
           />
 
