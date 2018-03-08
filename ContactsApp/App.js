@@ -1,8 +1,30 @@
-import React from 'react';
+import { Navigation } from 'react-native-navigation';
+
+import AuthScreen from './src/screens/Auth/Auth';
+
+Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen)
+
+
+Navigation.startSingleScreenApp({
+  screen: {
+    screen: 'ContactsApp.AuthScreen', // unique ID registered with Navigation.registerScreen
+    title: 'Login', // override the nav buttons for the screen, see "Adding buttons to the navigator" below (optional)
+  }
+});
+
+
+
+
+
+
+
+
+
+/*import React from 'react';
 import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
 import {connect} from 'react-redux';
 import HRBtn from './src/UI/HRButtons/HRBtn';
-import ContactDetail from './src/Screens/ContactDetail';
+import ContactDetail from './src/main/ContactDetail';
 import HRListItemWithImg from './src/UI/HRLists/HRListItems/HRListItemWithImg';
 import {addContact, selectContact, deleteContact, deselectContact} from './src/store/actions';
 
@@ -92,4 +114,4 @@ const mapDispatchToProps = dispatch => {
   }
 }
 
-export default connect(mapStateToProps,mapDispatchToProps)(App);
+export default connect(mapStateToProps,mapDispatchToProps)(App); */
