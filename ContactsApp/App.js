@@ -1,12 +1,18 @@
 import { Navigation } from 'react-native-navigation';
+import { Provider } from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth';
 import ContactsScreen from './src/screens/Contacts/Contacts';
 import OptionsScreen from './src/screens/Options/Options';
+import configureStore from './src/store/config';
 
-Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen)
-Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen)
-Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen)
+const store = configureStore();
+
+Navigation.registerComponent("ContactsApp.AuthScreen", () => AuthScreen,store,Provider)
+Navigation.registerComponent("ContactsApp.ContactsScreen", () => ContactsScreen,store,Provider)
+Navigation.registerComponent("ContactsApp.OptionsScreen", () => OptionsScreen,store,Provider)
+
+
 
 Navigation.startSingleScreenApp({
   screen: {

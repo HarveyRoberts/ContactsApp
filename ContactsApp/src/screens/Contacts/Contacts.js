@@ -1,36 +1,12 @@
 import React from 'react';
-import { View, Text } from 'react-native';
-import HRBtn from '../../UI/HRButtons/HRBtn';
-import startTabs from '../MainTabs/startMainTabs';
-
-class ContactsScreen extends React.Component {
-  render() {
-    return (
-        <View >
-
-          <Text>Contacts!</Text>
-          
-        </View> 
-    );
-  }
-}
-
-
-export default ContactsScreen;
-
-
-
-
-
-/*import React from 'react';
 import { StyleSheet, Text, View, FlatList,ScrollView, TextInput } from 'react-native';
 import {connect} from 'react-redux';
-import HRBtn from './src/UI/HRButtons/HRBtn';
-import ContactDetail from './src/main/ContactDetail';
-import HRListItemWithImg from './src/UI/HRLists/HRListItems/HRListItemWithImg';
-import {addContact, selectContact, deleteContact, deselectContact} from './src/store/actions';
+import HRBtn from '../../UI/HRButtons/HRBtn';
+import ContactDetail from '../../main/ContactDetail';
+import HRListItemWithImg from '../../UI/HRLists/HRListItems/HRListItemWithImg';
+import {addContact, selectContact, deleteContact, deselectContact} from '../../store/actions';
 
-class App extends React.Component {
+class ContactsScreen extends React.Component {
   state= {
     contactNameTextInput: ''
   }
@@ -116,4 +92,4 @@ const mapDispatchToProps = dispatch => {
   }
 }
 
-export default connect(mapStateToProps,mapDispatchToProps)(App); */
+export default connect(mapStateToProps,mapDispatchToProps)(ContactsScreen);
