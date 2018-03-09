@@ -1,7 +1,7 @@
 import React from 'react';
-import { StyleSheet, Text, View,TouchableHighlight, FlatList,ScrollView, Image, TextInput } from 'react-native';
+import { StyleSheet, Text, View,TouchableOpacity, FlatList,ScrollView, Image, TextInput } from 'react-native';
 import {connect} from 'react-redux';
-import Icon from 'react-native-vector-icons/FontAwesome';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {deleteContact} from '../../store/actions';
 import HRBtn from '../../UI/HRButtons/HRBtn';
 
@@ -16,13 +16,27 @@ class ContactDetail extends React.Component {
   }
   render() {
     return (
-        <View style={{marginTop: 22}}>
-          <View style={{alignItems:'center'}}>
-              <Image style={{height:150,width:150}} source={{uri:this.props.image}}/>
+        <View style={{marginTop: 22, alignItems: 'center'}}>
+                <View style={{flexDirection:'row',width:'90%', justifyContent:'flex-end'}}>
+                  <FlatList
+                  style={{flex:1}}
+                  data={this.props.images}
+                  renderItem={(image) => (
+                    <Image style={{height:150,width:150,alignSelf:'flex-end'}} source={{uri:image.item}}/>
+                  )}
+                  />
+                  <View style={{justifyContent:'center'}}>
+                    <TouchableOpacity style={styles.addPhotoIcon}>
+                      <Icon name="plus" size={35} color="white" />
+                    </TouchableOpacity>
+                  </View>
+                </View>
               <Text style={{fontSize: 25,marginTop:15}}>{this.props.firstname + ' ' + this.props.surname}</Text>
-              <Text style={{fontSize: 25,marginTop:15}}>{this.props.email}</Text>
-              <Text style={{fontSize: 25,marginTop:15}}>{this.props.mobilePhone}</Text>
-              <Text style={{fontSize: 25,marginTop:15}}>{this.props.dateOfBirth}</Text>
+              <Text style={{fontSize: 20}}>{this.props.email}</Text>
+              <Text style={{fontSize: 20}}>{this.props.mobilePhone}</Text>
+              <Text style={{fontSize: 20}}>{this.props.homePhone}</Text>
+              <Text style={{fontSize: 20}}>{this.props.dateOfBirth}</Text>
+              <Text style={{fontSize: 20}}>{this.props.address}</Text>
               <HRBtn 
                 large  
                 bgColor='#ff4444' 
@@ -31,11 +45,22 @@ class ContactDetail extends React.Component {
               >
                 Supprimer Le Contact
               </HRBtn>
-          </View>
       </View>
     );
   }
 }
+
+const styles= StyleSheet.create({
+  addPhotoIcon: {
+    justifyContent:'center', 
+    alignItems: 'center', 
+    margin:30, 
+    backgroundColor: '#00AEFF', 
+    borderRadius: 500, 
+    height:50, 
+    width:50
+  }
+})
 
 const mapDispatchToProps = dispatch => {
   return {

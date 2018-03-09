@@ -7,28 +7,16 @@ import {addContact} from '../../store/actions';
 
 class ContactsScreen extends React.Component {
   state= {
-    contactNameTextInput: ''
+    searchContactName: ''
   }
-  //Quand on utilise cette syntax pour déclarer une fonction
-  //la variable this fait référence à la class App
-  contactNameTextChange = (text) => {
-    this.setState({contactNameTextInput: text});
+  searchContactNameTextChange = (text) => {
+    this.setState({searchContactName: text});
   }
   navToAddContact = () => {
     this.props.navigator.push({
-        screen: 'ContactsApp.AddContactScreen'
+        screen: 'ContactsApp.AddContactScreen',
+        title: 'Créer un contact'
       });
-  }
-  addContact = () => {
-    if(this.state.contactNameTextInput === ''){
-      return;
-    }
-    this.setState({contactNameTextInput: ''})
-    this.props.onAddContact(this.state.contactNameTextInput);
-    
-  }
-  removeContact = () => {
-    this.props.onDeleteContact();
   }
   onSelectContact = (contact) => {
     this.props.navigator.push({
@@ -38,46 +26,45 @@ class ContactsScreen extends React.Component {
   }
   render() {
     return (
-      <ScrollView style={{flex:1}}>
         <View style={styles.container}>
         <HRBtn large onPress={this.navToAddContact}>
           +
           </HRBtn>
-          {/*<TextInput 
+          <TextInput 
           style={{width:'80%'}}
-          onChangeText={this.contactNameTextChange}
-          value={this.state.contactNameTextInput} 
+          onChangeText={this.searchContactNameTextChange}
+          placeholder='Rechercher'
+          value={this.state.searchContactName} 
           />
-          <HRBtn large onPress={this.addContact}>
-          Ajouter
-          </HRBtn>*/}
-          <Text>Appuiez pour voir les détails</Text>
+          <Text style={{marginBottom:20}}>Appuiez pour voir les détails</Text>
+          <ScrollView style={{flex:1}}>
           <FlatList
           style={{flex:1}}
             data={this.props.contacts}
             renderItem={(info) => (
               <HRListItemWithImg 
-              imgSrc={{uri:info.item.image}} 
+              imgSrc={{uri:info.item.images[0] || 'http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/person-icon.png'}} 
               rightBtn
+              key={info.item.id}
               rightBtnText='>'
               rightBtnTextColor='black'
               rightBtnBgColor='transparent'
-              onRightBtnPress={() => this.onSelectContact(info.item)}
-              key={info.index} 
+              onRightBtnPress={() => this.onSelectContact(info.item)} 
               onPress={() => this.onSelectContact(info.item)}
               title={info.item.firstname + ' ' + info.item.surname} />
             )}
           />
+          </ScrollView>
 
-        </View>
-      </ScrollView>  
+        </View> 
     );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
-    alignItems: 'center'
+    alignItems: 'center',
+    flex:1
   },
 });
 

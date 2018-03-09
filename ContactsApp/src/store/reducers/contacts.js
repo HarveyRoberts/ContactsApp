@@ -11,7 +11,9 @@ const initialState = {
             email: 'freddaniel@yahoo.fr',
             dateOfBirth: '05/07/1984',
             id:'kjhgfd78452hg',
-            image:'http://www.math.uni-frankfurt.de/~person/_4170854.jpg',
+            images:[
+                'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'
+            ]
         },
         {
             surname: 'Gates',
@@ -22,7 +24,9 @@ const initialState = {
             email: 'billybill@gmail.com',
             dateOfBirth: '07/12/1967',
             id:'f419h8ytdh48f9h3',
-            image:'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'
+            images: [
+                'https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person-279x300.jpg'
+            ]
         }
     ],
 }

@@ -37,6 +37,7 @@ class ContactsScreen extends React.Component {
         this.state.dateOfBirth === ''
     )
     {
+      alert("Vous n'avez pas remplis tous les champs")
       return;
     }
     this.setState({
@@ -51,7 +52,7 @@ class ContactsScreen extends React.Component {
     })
     const contact = this.state;
     contact.id = this.makeid();
-    contact.image = 'http://www.math.uni-frankfurt.de/~person/_4170854.jpg'
+    contact.images = []
     this.props.onAddContact(this.state);
   }
   render() {
