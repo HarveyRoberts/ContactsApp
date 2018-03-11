@@ -1,9 +1,19 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-import HRBtn from '../../UI/HRButtons/HRBtn';
-import startTabs from '../MainTabs/startMainTabs';
 
 class OptionsScreen extends React.Component {
+  constructor (props) {
+    super(props);
+    this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent)
+  }
+  onNavigatorEvent = (event) => {
+      if (event.type === "NavBarButtonPress" && event.id === "toggleSideDrawer") {
+        this.props.navigator.toggleDrawer({
+          side: 'left',
+          animated: true
+        });
+      }
+  }
   render() {
     return (
         <View >

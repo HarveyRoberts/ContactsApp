@@ -6,8 +6,21 @@ import HRListItemWithImg from '../../UI/HRLists/HRListItems/HRListItemWithImg';
 import {addContact} from '../../store/actions';
 
 class ContactsScreen extends React.Component {
+  constructor (props) {
+    super(props);
+    this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent)
+  }
   state= {
     searchContactName: ''
+  }
+
+  onNavigatorEvent = (event) => {
+    if (event.type === "NavBarButtonPress" && event.id === "toggleSideDrawer") {
+      this.props.navigator.toggleDrawer({
+        side: 'left',
+        animated: true
+      });
+    }
   }
   searchContactNameTextChange = (text) => {
     this.setState({searchContactName: text});
@@ -21,7 +34,8 @@ class ContactsScreen extends React.Component {
   onSelectContact = (contact) => {
     this.props.navigator.push({
         screen: 'ContactsApp.ContactDetailScreen', 
-        passProps: contact
+        passProps: contact,
+        title: contact.firstname + ' ' + contact.surname
       });
   }
   render() {
@@ -43,7 +57,7 @@ class ContactsScreen extends React.Component {
             data={this.props.contacts}
             renderItem={(info) => (
               <HRListItemWithImg 
-              imgSrc={{uri:info.item.images[0] || 'http://icons.iconarchive.com/icons/graphicloads/flat-finance/256/person-icon.png'}} 
+              imgSrc={{uri:info.item.images[0] || 'https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-256.png'}} 
               rightBtn
               key={info.item.id}
               rightBtnText='>'
