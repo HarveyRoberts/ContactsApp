@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_cec054666b24de37655b1ea84215056d1a1f4c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -27,6 +36,15 @@
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b4be845545edf81ca642dd25220a649dab4f0d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_6fbfe0550e1a1fecf476db4dd1425502a4efe5ad.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,6 +174,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_b01e2b8fad00cb378a8257edb5d5a5e12b47dab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
@@ -171,6 +198,15 @@
         revision="25.0.1"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_74445022b161fc979f25f596a39dd11138c6ae0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\ContactsApp\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-react-native-maps-unspecified_7d6e10b5ff0f6aa907c6b9cd356528857a18bf05.jar" />
     </item>
     <item
         is-multidex="false"
@@ -477,6 +513,15 @@
         revision="25.0.1"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_0ab47031d315f16603135a1d0c8bc13148503ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_3c8006c9f279f6c383accf328d184b45f57a5acb.jar" />
     </item>
     <item
         is-multidex="false"
