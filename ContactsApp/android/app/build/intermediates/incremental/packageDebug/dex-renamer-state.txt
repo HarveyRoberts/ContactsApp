@@ -1,4 +1,4 @@
-#Wed Mar 28 13:28:41 CEST 2018
+#Thu Mar 29 17:26:20 CEST 2018
 base.0=D\:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

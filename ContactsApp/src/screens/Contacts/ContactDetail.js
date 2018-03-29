@@ -12,6 +12,7 @@ import {
 } from "react-native";
 import { connect } from "react-redux";
 import MapView from "react-native-maps";
+import ImagePicker from "react-native-image-picker";
 import Icon from "react-native-vector-icons/MaterialCommunityIcons";
 import { deleteContact } from "../../store/actions";
 import HRBtn from "../../UI/HRButtons/HRBtn";
@@ -25,7 +26,7 @@ class ContactDetail extends React.Component {
 			longitude: 37.7900352,
 			latitude: -122.4013726,
 			longitudeDelta: 0.0122,
-			latitudeDelta: (SCREEN_WIDTH / SCREEN_HEIGHT) * 0.0122
+			latitudeDelta: SCREEN_WIDTH / SCREEN_HEIGHT * 0.0122
 		}
 	};
 
@@ -36,6 +37,27 @@ class ContactDetail extends React.Component {
 			animationType: "fade" // 'fade' (for both) / 'slide-horizontal' (for android) does the pop have different transition animation (optional)
 		});
 	};
+
+	addPhoto = () => {
+		//show image picker thanks to react-native-image-picker
+		ImagePicker.showImagePicker(null, response => {
+			console.log("Response = ", response);
+			if (response.didCancel) {
+				console.log("User cancelled image picker");
+			} else if (response.error) {
+				console.log("ImagePicker Error: ", response.error);
+			} else {
+				let source = { uri: response.uri };
+				// You can also display the image using data:
+				// let source = { uri: 'data:image/jpeg;base64,' + response.data };
+
+				this.setState({
+					avatarSource: source
+				});
+			}
+		});
+	};
+
 	render() {
 		return (
 			<ScrollView style={{ flex: 1 }}>
@@ -58,7 +80,10 @@ class ContactDetail extends React.Component {
 							)}
 						/>
 						<View style={{ justifyContent: "center" }}>
-							<TouchableOpacity style={styles.addPhotoIcon}>
+							<TouchableOpacity
+								style={styles.addPhotoIcon}
+								onPress={this.addPhoto}
+							>
 								<Icon name="plus" size={35} color="white" />
 							</TouchableOpacity>
 						</View>

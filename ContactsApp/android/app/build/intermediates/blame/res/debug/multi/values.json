@@ -10428,9 +10428,30 @@
                     "startLine": 1833,
                     "startColumn": 4,
                     "startOffset": 133010,
-                    "endLine": 1836,
+                    "endLine": 1840,
+                    "endColumn": 12,
+                    "endOffset": 133416
+                },
+                "from": {
+                    "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-image-picker\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1841,
+                    "startColumn": 4,
+                    "startOffset": 133421,
+                    "endLine": 1844,
                     "endColumn": 10,
-                    "endOffset": 133207
+                    "endOffset": 133618
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -10446,12 +10467,12 @@
             },
             {
                 "to": {
-                    "startLine": 1837,
+                    "startLine": 1845,
                     "startColumn": 4,
-                    "startOffset": 133212,
-                    "endLine": 1840,
+                    "startOffset": 133623,
+                    "endLine": 1848,
                     "endColumn": 10,
-                    "endOffset": 133413
+                    "endOffset": 133824
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -10467,12 +10488,12 @@
             },
             {
                 "to": {
-                    "startLine": 1841,
+                    "startLine": 1849,
                     "startColumn": 4,
-                    "startOffset": 133418,
-                    "endLine": 1844,
+                    "startOffset": 133829,
+                    "endLine": 1852,
                     "endColumn": 12,
-                    "endOffset": 133697
+                    "endOffset": 134108
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10488,12 +10509,12 @@
             },
             {
                 "to": {
-                    "startLine": 1845,
+                    "startLine": 1853,
                     "startColumn": 4,
-                    "startOffset": 133702,
-                    "endLine": 1847,
+                    "startOffset": 134113,
+                    "endLine": 1855,
                     "endColumn": 12,
-                    "endOffset": 133891
+                    "endOffset": 134302
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10509,12 +10530,12 @@
             },
             {
                 "to": {
-                    "startLine": 1848,
+                    "startLine": 1856,
                     "startColumn": 4,
-                    "startOffset": 133896,
-                    "endLine": 1851,
+                    "startOffset": 134307,
+                    "endLine": 1859,
                     "endColumn": 12,
-                    "endOffset": 134091
+                    "endOffset": 134502
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10530,12 +10551,12 @@
             },
             {
                 "to": {
-                    "startLine": 1852,
+                    "startLine": 1860,
                     "startColumn": 4,
-                    "startOffset": 134096,
-                    "endLine": 1854,
+                    "startOffset": 134507,
+                    "endLine": 1862,
                     "endColumn": 12,
-                    "endOffset": 134221
+                    "endOffset": 134632
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10551,12 +10572,12 @@
             },
             {
                 "to": {
-                    "startLine": 1855,
+                    "startLine": 1863,
                     "startColumn": 4,
-                    "startOffset": 134226,
-                    "endLine": 1858,
+                    "startOffset": 134637,
+                    "endLine": 1866,
                     "endColumn": 12,
-                    "endOffset": 134421
+                    "endOffset": 134832
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10572,12 +10593,12 @@
             },
             {
                 "to": {
-                    "startLine": 1859,
+                    "startLine": 1867,
                     "startColumn": 4,
-                    "startOffset": 134426,
-                    "endLine": 1861,
+                    "startOffset": 134837,
+                    "endLine": 1869,
                     "endColumn": 12,
-                    "endOffset": 134541
+                    "endOffset": 134952
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10593,12 +10614,12 @@
             },
             {
                 "to": {
-                    "startLine": 1862,
+                    "startLine": 1870,
                     "startColumn": 4,
-                    "startOffset": 134546,
-                    "endLine": 1864,
+                    "startOffset": 134957,
+                    "endLine": 1872,
                     "endColumn": 12,
-                    "endOffset": 134672
+                    "endOffset": 135083
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\values\\values.xml",
@@ -10614,12 +10635,12 @@
             },
             {
                 "to": {
-                    "startLine": 1865,
+                    "startLine": 1873,
                     "startColumn": 4,
-                    "startOffset": 134677,
-                    "endLine": 1906,
+                    "startOffset": 135088,
+                    "endLine": 1914,
                     "endColumn": 12,
-                    "endOffset": 137858
+                    "endOffset": 138269
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10635,12 +10656,12 @@
             },
             {
                 "to": {
-                    "startLine": 1907,
+                    "startLine": 1915,
                     "startColumn": 4,
-                    "startOffset": 137863,
-                    "endLine": 1949,
+                    "startOffset": 138274,
+                    "endLine": 1957,
                     "endColumn": 12,
-                    "endOffset": 141187
+                    "endOffset": 141598
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10656,11 +10677,11 @@
             },
             {
                 "to": {
-                    "startLine": 1950,
+                    "startLine": 1958,
                     "startColumn": 4,
-                    "startOffset": 141192,
+                    "startOffset": 141603,
                     "endColumn": 61,
-                    "endOffset": 141249
+                    "endOffset": 141660
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10675,12 +10696,12 @@
             },
             {
                 "to": {
-                    "startLine": 1951,
+                    "startLine": 1959,
                     "startColumn": 4,
-                    "startOffset": 141254,
-                    "endLine": 1960,
+                    "startOffset": 141665,
+                    "endLine": 1968,
                     "endColumn": 12,
-                    "endOffset": 141879
+                    "endOffset": 142290
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10696,12 +10717,12 @@
             },
             {
                 "to": {
-                    "startLine": 1961,
+                    "startLine": 1969,
                     "startColumn": 4,
-                    "startOffset": 141884,
-                    "endLine": 1969,
+                    "startOffset": 142295,
+                    "endLine": 1977,
                     "endColumn": 12,
-                    "endOffset": 142493
+                    "endOffset": 142904
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10717,11 +10738,11 @@
             },
             {
                 "to": {
-                    "startLine": 1970,
+                    "startLine": 1978,
                     "startColumn": 4,
-                    "startOffset": 142498,
+                    "startOffset": 142909,
                     "endColumn": 85,
-                    "endOffset": 142579
+                    "endOffset": 142990
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10736,12 +10757,12 @@
             },
             {
                 "to": {
-                    "startLine": 1971,
+                    "startLine": 1979,
                     "startColumn": 4,
-                    "startOffset": 142584,
-                    "endLine": 1972,
+                    "startOffset": 142995,
+                    "endLine": 1980,
                     "endColumn": 12,
-                    "endOffset": 142692
+                    "endOffset": 143103
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10757,12 +10778,12 @@
             },
             {
                 "to": {
-                    "startLine": 1973,
+                    "startLine": 1981,
                     "startColumn": 4,
-                    "startOffset": 142697,
-                    "endLine": 1976,
+                    "startOffset": 143108,
+                    "endLine": 1984,
                     "endColumn": 12,
-                    "endOffset": 142921
+                    "endOffset": 143332
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10778,12 +10799,12 @@
             },
             {
                 "to": {
-                    "startLine": 1977,
+                    "startLine": 1985,
                     "startColumn": 4,
-                    "startOffset": 142926,
-                    "endLine": 1979,
+                    "startOffset": 143337,
+                    "endLine": 1987,
                     "endColumn": 12,
-                    "endOffset": 143081
+                    "endOffset": 143492
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10799,12 +10820,12 @@
             },
             {
                 "to": {
-                    "startLine": 1980,
+                    "startLine": 1988,
                     "startColumn": 4,
-                    "startOffset": 143086,
-                    "endLine": 1982,
+                    "startOffset": 143497,
+                    "endLine": 1990,
                     "endColumn": 12,
-                    "endOffset": 143233
+                    "endOffset": 143644
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10820,12 +10841,12 @@
             },
             {
                 "to": {
-                    "startLine": 1983,
+                    "startLine": 1991,
                     "startColumn": 4,
-                    "startOffset": 143238,
-                    "endLine": 1985,
+                    "startOffset": 143649,
+                    "endLine": 1993,
                     "endColumn": 12,
-                    "endOffset": 143404
+                    "endOffset": 143815
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10841,12 +10862,12 @@
             },
             {
                 "to": {
-                    "startLine": 1986,
+                    "startLine": 1994,
                     "startColumn": 4,
-                    "startOffset": 143409,
-                    "endLine": 1988,
+                    "startOffset": 143820,
+                    "endLine": 1996,
                     "endColumn": 12,
-                    "endOffset": 143571
+                    "endOffset": 143982
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10862,12 +10883,12 @@
             },
             {
                 "to": {
-                    "startLine": 1989,
+                    "startLine": 1997,
                     "startColumn": 4,
-                    "startOffset": 143576,
-                    "endLine": 1992,
+                    "startOffset": 143987,
+                    "endLine": 2000,
                     "endColumn": 12,
-                    "endOffset": 143814
+                    "endOffset": 144225
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10883,12 +10904,12 @@
             },
             {
                 "to": {
-                    "startLine": 1993,
+                    "startLine": 2001,
                     "startColumn": 4,
-                    "startOffset": 143819,
-                    "endLine": 1995,
+                    "startOffset": 144230,
+                    "endLine": 2003,
                     "endColumn": 12,
-                    "endOffset": 143984
+                    "endOffset": 144395
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10904,12 +10925,12 @@
             },
             {
                 "to": {
-                    "startLine": 1996,
+                    "startLine": 2004,
                     "startColumn": 4,
-                    "startOffset": 143989,
-                    "endLine": 1998,
+                    "startOffset": 144400,
+                    "endLine": 2006,
                     "endColumn": 12,
-                    "endOffset": 144157
+                    "endOffset": 144568
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10925,12 +10946,12 @@
             },
             {
                 "to": {
-                    "startLine": 1999,
+                    "startLine": 2007,
                     "startColumn": 4,
-                    "startOffset": 144162,
-                    "endLine": 2001,
+                    "startOffset": 144573,
+                    "endLine": 2009,
                     "endColumn": 12,
-                    "endOffset": 144328
+                    "endOffset": 144739
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10946,12 +10967,12 @@
             },
             {
                 "to": {
-                    "startLine": 2002,
+                    "startLine": 2010,
                     "startColumn": 4,
-                    "startOffset": 144333,
-                    "endLine": 2005,
+                    "startOffset": 144744,
+                    "endLine": 2013,
                     "endColumn": 12,
-                    "endOffset": 144602
+                    "endOffset": 145013
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10967,12 +10988,12 @@
             },
             {
                 "to": {
-                    "startLine": 2006,
+                    "startLine": 2014,
                     "startColumn": 4,
-                    "startOffset": 144607,
-                    "endLine": 2008,
+                    "startOffset": 145018,
+                    "endLine": 2016,
                     "endColumn": 12,
-                    "endOffset": 144801
+                    "endOffset": 145212
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -10988,12 +11009,12 @@
             },
             {
                 "to": {
-                    "startLine": 2009,
+                    "startLine": 2017,
                     "startColumn": 4,
-                    "startOffset": 144806,
-                    "endLine": 2012,
+                    "startOffset": 145217,
+                    "endLine": 2020,
                     "endColumn": 12,
-                    "endOffset": 145006
+                    "endOffset": 145417
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11009,12 +11030,12 @@
             },
             {
                 "to": {
-                    "startLine": 2013,
+                    "startLine": 2021,
                     "startColumn": 4,
-                    "startOffset": 145011,
-                    "endLine": 2016,
+                    "startOffset": 145422,
+                    "endLine": 2024,
                     "endColumn": 12,
-                    "endOffset": 145336
+                    "endOffset": 145747
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11030,12 +11051,12 @@
             },
             {
                 "to": {
-                    "startLine": 2017,
+                    "startLine": 2025,
                     "startColumn": 4,
-                    "startOffset": 145341,
-                    "endLine": 2019,
+                    "startOffset": 145752,
+                    "endLine": 2027,
                     "endColumn": 12,
-                    "endOffset": 145537
+                    "endOffset": 145948
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -11051,12 +11072,12 @@
             },
             {
                 "to": {
-                    "startLine": 2020,
+                    "startLine": 2028,
                     "startColumn": 4,
-                    "startOffset": 145542,
-                    "endLine": 2022,
+                    "startOffset": 145953,
+                    "endLine": 2030,
                     "endColumn": 12,
-                    "endOffset": 145726
+                    "endOffset": 146137
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -11072,12 +11093,12 @@
             },
             {
                 "to": {
-                    "startLine": 2023,
+                    "startLine": 2031,
                     "startColumn": 4,
-                    "startOffset": 145731,
-                    "endLine": 2025,
+                    "startOffset": 146142,
+                    "endLine": 2033,
                     "endColumn": 12,
-                    "endOffset": 145925
+                    "endOffset": 146336
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -11093,12 +11114,12 @@
             },
             {
                 "to": {
-                    "startLine": 2026,
+                    "startLine": 2034,
                     "startColumn": 4,
-                    "startOffset": 145930,
-                    "endLine": 2028,
+                    "startOffset": 146341,
+                    "endLine": 2036,
                     "endColumn": 12,
-                    "endOffset": 146112
+                    "endOffset": 146523
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -11114,11 +11135,11 @@
             },
             {
                 "to": {
-                    "startLine": 2029,
+                    "startLine": 2037,
                     "startColumn": 4,
-                    "startOffset": 146117,
+                    "startOffset": 146528,
                     "endColumn": 83,
-                    "endOffset": 146196
+                    "endOffset": 146607
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11133,11 +11154,11 @@
             },
             {
                 "to": {
-                    "startLine": 2030,
+                    "startLine": 2038,
                     "startColumn": 4,
-                    "startOffset": 146201,
+                    "startOffset": 146612,
                     "endColumn": 95,
-                    "endOffset": 146292
+                    "endOffset": 146703
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11152,11 +11173,11 @@
             },
             {
                 "to": {
-                    "startLine": 2031,
+                    "startLine": 2039,
                     "startColumn": 4,
-                    "startOffset": 146297,
+                    "startOffset": 146708,
                     "endColumn": 95,
-                    "endOffset": 146388
+                    "endOffset": 146799
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11171,11 +11192,11 @@
             },
             {
                 "to": {
-                    "startLine": 2032,
+                    "startLine": 2040,
                     "startColumn": 4,
-                    "startOffset": 146393,
+                    "startOffset": 146804,
                     "endColumn": 97,
-                    "endOffset": 146486
+                    "endOffset": 146897
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11190,11 +11211,11 @@
             },
             {
                 "to": {
-                    "startLine": 2033,
+                    "startLine": 2041,
                     "startColumn": 4,
-                    "startOffset": 146491,
+                    "startOffset": 146902,
                     "endColumn": 99,
-                    "endOffset": 146586
+                    "endOffset": 146997
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11209,11 +11230,11 @@
             },
             {
                 "to": {
-                    "startLine": 2034,
+                    "startLine": 2042,
                     "startColumn": 4,
-                    "startOffset": 146591,
+                    "startOffset": 147002,
                     "endColumn": 101,
-                    "endOffset": 146688
+                    "endOffset": 147099
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11228,11 +11249,11 @@
             },
             {
                 "to": {
-                    "startLine": 2035,
+                    "startLine": 2043,
                     "startColumn": 4,
-                    "startOffset": 146693,
+                    "startOffset": 147104,
                     "endColumn": 101,
-                    "endOffset": 146790
+                    "endOffset": 147201
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11247,11 +11268,11 @@
             },
             {
                 "to": {
-                    "startLine": 2036,
+                    "startLine": 2044,
                     "startColumn": 4,
-                    "startOffset": 146795,
+                    "startOffset": 147206,
                     "endColumn": 101,
-                    "endOffset": 146892
+                    "endOffset": 147303
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11266,11 +11287,11 @@
             },
             {
                 "to": {
-                    "startLine": 2037,
+                    "startLine": 2045,
                     "startColumn": 4,
-                    "startOffset": 146897,
+                    "startOffset": 147308,
                     "endColumn": 101,
-                    "endOffset": 146994
+                    "endOffset": 147405
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11285,11 +11306,11 @@
             },
             {
                 "to": {
-                    "startLine": 2038,
+                    "startLine": 2046,
                     "startColumn": 4,
-                    "startOffset": 146999,
+                    "startOffset": 147410,
                     "endColumn": 101,
-                    "endOffset": 147096
+                    "endOffset": 147507
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11304,11 +11325,11 @@
             },
             {
                 "to": {
-                    "startLine": 2039,
+                    "startLine": 2047,
                     "startColumn": 4,
-                    "startOffset": 147101,
+                    "startOffset": 147512,
                     "endColumn": 99,
-                    "endOffset": 147196
+                    "endOffset": 147607
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11323,11 +11344,11 @@
             },
             {
                 "to": {
-                    "startLine": 2040,
+                    "startLine": 2048,
                     "startColumn": 4,
-                    "startOffset": 147201,
+                    "startOffset": 147612,
                     "endColumn": 95,
-                    "endOffset": 147292
+                    "endOffset": 147703
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11342,11 +11363,11 @@
             },
             {
                 "to": {
-                    "startLine": 2041,
+                    "startLine": 2049,
                     "startColumn": 4,
-                    "startOffset": 147297,
+                    "startOffset": 147708,
                     "endColumn": 111,
-                    "endOffset": 147404
+                    "endOffset": 147815
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11361,11 +11382,11 @@
             },
             {
                 "to": {
-                    "startLine": 2042,
+                    "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 147409,
+                    "startOffset": 147820,
                     "endColumn": 128,
-                    "endOffset": 147533
+                    "endOffset": 147944
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11380,11 +11401,11 @@
             },
             {
                 "to": {
-                    "startLine": 2043,
+                    "startLine": 2051,
                     "startColumn": 4,
-                    "startOffset": 147538,
+                    "startOffset": 147949,
                     "endColumn": 122,
-                    "endOffset": 147656
+                    "endOffset": 148067
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11399,11 +11420,11 @@
             },
             {
                 "to": {
-                    "startLine": 2044,
+                    "startLine": 2052,
                     "startColumn": 4,
-                    "startOffset": 147661,
+                    "startOffset": 148072,
                     "endColumn": 130,
-                    "endOffset": 147787
+                    "endOffset": 148198
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11418,11 +11439,11 @@
             },
             {
                 "to": {
-                    "startLine": 2045,
+                    "startLine": 2053,
                     "startColumn": 4,
-                    "startOffset": 147792,
+                    "startOffset": 148203,
                     "endColumn": 130,
-                    "endOffset": 147918
+                    "endOffset": 148329
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11437,11 +11458,11 @@
             },
             {
                 "to": {
-                    "startLine": 2046,
+                    "startLine": 2054,
                     "startColumn": 4,
-                    "startOffset": 147923,
+                    "startOffset": 148334,
                     "endColumn": 97,
-                    "endOffset": 148016
+                    "endOffset": 148427
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11456,11 +11477,11 @@
             },
             {
                 "to": {
-                    "startLine": 2047,
+                    "startLine": 2055,
                     "startColumn": 4,
-                    "startOffset": 148021,
+                    "startOffset": 148432,
                     "endColumn": 113,
-                    "endOffset": 148130
+                    "endOffset": 148541
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11475,11 +11496,11 @@
             },
             {
                 "to": {
-                    "startLine": 2048,
+                    "startLine": 2056,
                     "startColumn": 4,
-                    "startOffset": 148135,
+                    "startOffset": 148546,
                     "endColumn": 93,
-                    "endOffset": 148224
+                    "endOffset": 148635
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11494,12 +11515,12 @@
             },
             {
                 "to": {
-                    "startLine": 2049,
+                    "startLine": 2057,
                     "startColumn": 4,
-                    "startOffset": 148229,
-                    "endLine": 2052,
+                    "startOffset": 148640,
+                    "endLine": 2060,
                     "endColumn": 12,
-                    "endOffset": 148423
+                    "endOffset": 148834
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11515,12 +11536,12 @@
             },
             {
                 "to": {
-                    "startLine": 2053,
+                    "startLine": 2061,
                     "startColumn": 4,
-                    "startOffset": 148428,
-                    "endLine": 2056,
+                    "startOffset": 148839,
+                    "endLine": 2064,
                     "endColumn": 12,
-                    "endOffset": 148627
+                    "endOffset": 149038
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11536,11 +11557,11 @@
             },
             {
                 "to": {
-                    "startLine": 2057,
+                    "startLine": 2065,
                     "startColumn": 4,
-                    "startOffset": 148632,
+                    "startOffset": 149043,
                     "endColumn": 68,
-                    "endOffset": 148696
+                    "endOffset": 149107
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11555,11 +11576,11 @@
             },
             {
                 "to": {
-                    "startLine": 2058,
+                    "startLine": 2066,
                     "startColumn": 4,
-                    "startOffset": 148701,
+                    "startOffset": 149112,
                     "endColumn": 115,
-                    "endOffset": 148812
+                    "endOffset": 149223
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11574,11 +11595,11 @@
             },
             {
                 "to": {
-                    "startLine": 2059,
+                    "startLine": 2067,
                     "startColumn": 4,
-                    "startOffset": 148817,
+                    "startOffset": 149228,
                     "endColumn": 127,
-                    "endOffset": 148940
+                    "endOffset": 149351
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11593,11 +11614,11 @@
             },
             {
                 "to": {
-                    "startLine": 2060,
+                    "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 148945,
+                    "startOffset": 149356,
                     "endColumn": 63,
-                    "endOffset": 149004
+                    "endOffset": 149415
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11612,12 +11633,12 @@
             },
             {
                 "to": {
-                    "startLine": 2061,
+                    "startLine": 2069,
                     "startColumn": 4,
-                    "startOffset": 149009,
-                    "endLine": 2064,
+                    "startOffset": 149420,
+                    "endLine": 2072,
                     "endColumn": 12,
-                    "endOffset": 149208
+                    "endOffset": 149619
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11633,11 +11654,11 @@
             },
             {
                 "to": {
-                    "startLine": 2065,
+                    "startLine": 2073,
                     "startColumn": 4,
-                    "startOffset": 149213,
+                    "startOffset": 149624,
                     "endColumn": 68,
-                    "endOffset": 149277
+                    "endOffset": 149688
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11652,12 +11673,12 @@
             },
             {
                 "to": {
-                    "startLine": 2066,
+                    "startLine": 2074,
                     "startColumn": 4,
-                    "startOffset": 149282,
-                    "endLine": 2069,
+                    "startOffset": 149693,
+                    "endLine": 2077,
                     "endColumn": 12,
-                    "endOffset": 149480
+                    "endOffset": 149891
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11673,11 +11694,11 @@
             },
             {
                 "to": {
-                    "startLine": 2070,
+                    "startLine": 2078,
                     "startColumn": 4,
-                    "startOffset": 149485,
+                    "startOffset": 149896,
                     "endColumn": 69,
-                    "endOffset": 149550
+                    "endOffset": 149961
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11692,12 +11713,12 @@
             },
             {
                 "to": {
-                    "startLine": 2071,
+                    "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 149555,
-                    "endLine": 2072,
+                    "startOffset": 149966,
+                    "endLine": 2080,
                     "endColumn": 12,
-                    "endOffset": 149690
+                    "endOffset": 150101
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11713,12 +11734,12 @@
             },
             {
                 "to": {
-                    "startLine": 2073,
+                    "startLine": 2081,
                     "startColumn": 4,
-                    "startOffset": 149695,
-                    "endLine": 2074,
+                    "startOffset": 150106,
+                    "endLine": 2082,
                     "endColumn": 12,
-                    "endOffset": 149824
+                    "endOffset": 150235
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11734,11 +11755,11 @@
             },
             {
                 "to": {
-                    "startLine": 2075,
+                    "startLine": 2083,
                     "startColumn": 4,
-                    "startOffset": 149829,
+                    "startOffset": 150240,
                     "endColumn": 95,
-                    "endOffset": 149920
+                    "endOffset": 150331
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11753,11 +11774,11 @@
             },
             {
                 "to": {
-                    "startLine": 2076,
+                    "startLine": 2084,
                     "startColumn": 4,
-                    "startOffset": 149925,
+                    "startOffset": 150336,
                     "endColumn": 111,
-                    "endOffset": 150032
+                    "endOffset": 150443
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11772,11 +11793,11 @@
             },
             {
                 "to": {
-                    "startLine": 2077,
+                    "startLine": 2085,
                     "startColumn": 4,
-                    "startOffset": 150037,
+                    "startOffset": 150448,
                     "endColumn": 99,
-                    "endOffset": 150132
+                    "endOffset": 150543
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11791,11 +11812,11 @@
             },
             {
                 "to": {
-                    "startLine": 2078,
+                    "startLine": 2086,
                     "startColumn": 4,
-                    "startOffset": 150137,
+                    "startOffset": 150548,
                     "endColumn": 115,
-                    "endOffset": 150248
+                    "endOffset": 150659
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11810,11 +11831,11 @@
             },
             {
                 "to": {
-                    "startLine": 2079,
+                    "startLine": 2087,
                     "startColumn": 4,
-                    "startOffset": 150253,
+                    "startOffset": 150664,
                     "endColumn": 95,
-                    "endOffset": 150344
+                    "endOffset": 150755
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11829,11 +11850,11 @@
             },
             {
                 "to": {
-                    "startLine": 2080,
+                    "startLine": 2088,
                     "startColumn": 4,
-                    "startOffset": 150349,
+                    "startOffset": 150760,
                     "endColumn": 111,
-                    "endOffset": 150456
+                    "endOffset": 150867
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11848,12 +11869,12 @@
             },
             {
                 "to": {
-                    "startLine": 2081,
+                    "startLine": 2089,
                     "startColumn": 4,
-                    "startOffset": 150461,
-                    "endLine": 2082,
+                    "startOffset": 150872,
+                    "endLine": 2090,
                     "endColumn": 12,
-                    "endOffset": 150596
+                    "endOffset": 151007
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11869,11 +11890,11 @@
             },
             {
                 "to": {
-                    "startLine": 2083,
+                    "startLine": 2091,
                     "startColumn": 4,
-                    "startOffset": 150601,
+                    "startOffset": 151012,
                     "endColumn": 135,
-                    "endOffset": 150732
+                    "endOffset": 151143
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11888,12 +11909,12 @@
             },
             {
                 "to": {
-                    "startLine": 2084,
+                    "startLine": 2092,
                     "startColumn": 4,
-                    "startOffset": 150737,
-                    "endLine": 2085,
+                    "startOffset": 151148,
+                    "endLine": 2093,
                     "endColumn": 12,
-                    "endOffset": 150896
+                    "endOffset": 151307
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11909,11 +11930,11 @@
             },
             {
                 "to": {
-                    "startLine": 2086,
+                    "startLine": 2094,
                     "startColumn": 4,
-                    "startOffset": 150901,
+                    "startOffset": 151312,
                     "endColumn": 129,
-                    "endOffset": 151026
+                    "endOffset": 151437
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11928,12 +11949,12 @@
             },
             {
                 "to": {
-                    "startLine": 2087,
+                    "startLine": 2095,
                     "startColumn": 4,
-                    "startOffset": 151031,
-                    "endLine": 2088,
+                    "startOffset": 151442,
+                    "endLine": 2096,
                     "endColumn": 12,
-                    "endOffset": 151184
+                    "endOffset": 151595
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11949,12 +11970,12 @@
             },
             {
                 "to": {
-                    "startLine": 2089,
+                    "startLine": 2097,
                     "startColumn": 4,
-                    "startOffset": 151189,
-                    "endLine": 2090,
+                    "startOffset": 151600,
+                    "endLine": 2098,
                     "endColumn": 12,
-                    "endOffset": 151334
+                    "endOffset": 151745
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11970,11 +11991,11 @@
             },
             {
                 "to": {
-                    "startLine": 2091,
+                    "startLine": 2099,
                     "startColumn": 4,
-                    "startOffset": 151339,
+                    "startOffset": 151750,
                     "endColumn": 140,
-                    "endOffset": 151475
+                    "endOffset": 151886
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -11989,12 +12010,12 @@
             },
             {
                 "to": {
-                    "startLine": 2092,
+                    "startLine": 2100,
                     "startColumn": 4,
-                    "startOffset": 151480,
-                    "endLine": 2093,
+                    "startOffset": 151891,
+                    "endLine": 2101,
                     "endColumn": 12,
-                    "endOffset": 151619
+                    "endOffset": 152030
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12010,11 +12031,11 @@
             },
             {
                 "to": {
-                    "startLine": 2094,
+                    "startLine": 2102,
                     "startColumn": 4,
-                    "startOffset": 151624,
+                    "startOffset": 152035,
                     "endColumn": 134,
-                    "endOffset": 151754
+                    "endOffset": 152165
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12029,11 +12050,11 @@
             },
             {
                 "to": {
-                    "startLine": 2095,
+                    "startLine": 2103,
                     "startColumn": 4,
-                    "startOffset": 151759,
+                    "startOffset": 152170,
                     "endColumn": 111,
-                    "endOffset": 151866
+                    "endOffset": 152277
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12048,11 +12069,11 @@
             },
             {
                 "to": {
-                    "startLine": 2096,
+                    "startLine": 2104,
                     "startColumn": 4,
-                    "startOffset": 151871,
+                    "startOffset": 152282,
                     "endColumn": 149,
-                    "endOffset": 152016
+                    "endOffset": 152427
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12067,11 +12088,11 @@
             },
             {
                 "to": {
-                    "startLine": 2097,
+                    "startLine": 2105,
                     "startColumn": 4,
-                    "startOffset": 152021,
+                    "startOffset": 152432,
                     "endColumn": 127,
-                    "endOffset": 152144
+                    "endOffset": 152555
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12086,11 +12107,11 @@
             },
             {
                 "to": {
-                    "startLine": 2098,
+                    "startLine": 2106,
                     "startColumn": 4,
-                    "startOffset": 152149,
+                    "startOffset": 152560,
                     "endColumn": 127,
-                    "endOffset": 152272
+                    "endOffset": 152683
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12105,12 +12126,12 @@
             },
             {
                 "to": {
-                    "startLine": 2099,
+                    "startLine": 2107,
                     "startColumn": 4,
-                    "startOffset": 152277,
-                    "endLine": 2100,
+                    "startOffset": 152688,
+                    "endLine": 2108,
                     "endColumn": 12,
-                    "endOffset": 152408
+                    "endOffset": 152819
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12126,11 +12147,11 @@
             },
             {
                 "to": {
-                    "startLine": 2101,
+                    "startLine": 2109,
                     "startColumn": 4,
-                    "startOffset": 152413,
+                    "startOffset": 152824,
                     "endColumn": 131,
-                    "endOffset": 152540
+                    "endOffset": 152951
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12145,11 +12166,11 @@
             },
             {
                 "to": {
-                    "startLine": 2102,
+                    "startLine": 2110,
                     "startColumn": 4,
-                    "startOffset": 152545,
+                    "startOffset": 152956,
                     "endColumn": 129,
-                    "endOffset": 152670
+                    "endOffset": 153081
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12164,11 +12185,11 @@
             },
             {
                 "to": {
-                    "startLine": 2103,
+                    "startLine": 2111,
                     "startColumn": 4,
-                    "startOffset": 152675,
+                    "startOffset": 153086,
                     "endColumn": 129,
-                    "endOffset": 152800
+                    "endOffset": 153211
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12183,11 +12204,11 @@
             },
             {
                 "to": {
-                    "startLine": 2104,
+                    "startLine": 2112,
                     "startColumn": 4,
-                    "startOffset": 152805,
+                    "startOffset": 153216,
                     "endColumn": 111,
-                    "endOffset": 152912
+                    "endOffset": 153323
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12202,11 +12223,11 @@
             },
             {
                 "to": {
-                    "startLine": 2105,
+                    "startLine": 2113,
                     "startColumn": 4,
-                    "startOffset": 152917,
+                    "startOffset": 153328,
                     "endColumn": 139,
-                    "endOffset": 153052
+                    "endOffset": 153463
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12221,12 +12242,12 @@
             },
             {
                 "to": {
-                    "startLine": 2106,
+                    "startLine": 2114,
                     "startColumn": 4,
-                    "startOffset": 153057,
-                    "endLine": 2108,
+                    "startOffset": 153468,
+                    "endLine": 2116,
                     "endColumn": 12,
-                    "endOffset": 153253
+                    "endOffset": 153664
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12242,11 +12263,11 @@
             },
             {
                 "to": {
-                    "startLine": 2109,
+                    "startLine": 2117,
                     "startColumn": 4,
-                    "startOffset": 153258,
+                    "startOffset": 153669,
                     "endColumn": 91,
-                    "endOffset": 153345
+                    "endOffset": 153756
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12261,12 +12282,12 @@
             },
             {
                 "to": {
-                    "startLine": 2110,
+                    "startLine": 2118,
                     "startColumn": 4,
-                    "startOffset": 153350,
-                    "endLine": 2112,
+                    "startOffset": 153761,
+                    "endLine": 2120,
                     "endColumn": 12,
-                    "endOffset": 153524
+                    "endOffset": 153935
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12282,12 +12303,12 @@
             },
             {
                 "to": {
-                    "startLine": 2113,
+                    "startLine": 2121,
                     "startColumn": 4,
-                    "startOffset": 153529,
-                    "endLine": 2115,
+                    "startOffset": 153940,
+                    "endLine": 2123,
                     "endColumn": 12,
-                    "endOffset": 153692
+                    "endOffset": 154103
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12303,12 +12324,12 @@
             },
             {
                 "to": {
-                    "startLine": 2116,
+                    "startLine": 2124,
                     "startColumn": 4,
-                    "startOffset": 153697,
-                    "endLine": 2118,
+                    "startOffset": 154108,
+                    "endLine": 2126,
                     "endColumn": 12,
-                    "endOffset": 153867
+                    "endOffset": 154278
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12324,12 +12345,12 @@
             },
             {
                 "to": {
-                    "startLine": 2119,
+                    "startLine": 2127,
                     "startColumn": 4,
-                    "startOffset": 153872,
-                    "endLine": 2122,
+                    "startOffset": 154283,
+                    "endLine": 2130,
                     "endColumn": 12,
-                    "endOffset": 154120
+                    "endOffset": 154531
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12345,12 +12366,12 @@
             },
             {
                 "to": {
-                    "startLine": 2123,
+                    "startLine": 2131,
                     "startColumn": 4,
-                    "startOffset": 154125,
-                    "endLine": 2127,
+                    "startOffset": 154536,
+                    "endLine": 2135,
                     "endColumn": 12,
-                    "endOffset": 154411
+                    "endOffset": 154822
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -12366,11 +12387,11 @@
             },
             {
                 "to": {
-                    "startLine": 2128,
+                    "startLine": 2136,
                     "startColumn": 4,
-                    "startOffset": 154416,
+                    "startOffset": 154827,
                     "endColumn": 67,
-                    "endOffset": 154479
+                    "endOffset": 154890
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12385,11 +12406,11 @@
             },
             {
                 "to": {
-                    "startLine": 2129,
+                    "startLine": 2137,
                     "startColumn": 4,
-                    "startOffset": 154484,
+                    "startOffset": 154895,
                     "endColumn": 72,
-                    "endOffset": 154552
+                    "endOffset": 154963
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12404,11 +12425,11 @@
             },
             {
                 "to": {
-                    "startLine": 2130,
+                    "startLine": 2138,
                     "startColumn": 4,
-                    "startOffset": 154557,
+                    "startOffset": 154968,
                     "endColumn": 73,
-                    "endOffset": 154626
+                    "endOffset": 155037
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12423,11 +12444,11 @@
             },
             {
                 "to": {
-                    "startLine": 2131,
+                    "startLine": 2139,
                     "startColumn": 4,
-                    "startOffset": 154631,
+                    "startOffset": 155042,
                     "endColumn": 72,
-                    "endOffset": 154699
+                    "endOffset": 155110
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12442,11 +12463,11 @@
             },
             {
                 "to": {
-                    "startLine": 2132,
+                    "startLine": 2140,
                     "startColumn": 4,
-                    "startOffset": 154704,
+                    "startOffset": 155115,
                     "endColumn": 73,
-                    "endOffset": 154773
+                    "endOffset": 155184
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12461,12 +12482,12 @@
             },
             {
                 "to": {
-                    "startLine": 2133,
+                    "startLine": 2141,
                     "startColumn": 4,
-                    "startOffset": 154778,
-                    "endLine": 2134,
+                    "startOffset": 155189,
+                    "endLine": 2142,
                     "endColumn": 12,
-                    "endOffset": 154919
+                    "endOffset": 155330
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12482,12 +12503,12 @@
             },
             {
                 "to": {
-                    "startLine": 2135,
+                    "startLine": 2143,
                     "startColumn": 4,
-                    "startOffset": 154924,
-                    "endLine": 2136,
+                    "startOffset": 155335,
+                    "endLine": 2144,
                     "endColumn": 12,
-                    "endOffset": 155063
+                    "endOffset": 155474
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12503,12 +12524,12 @@
             },
             {
                 "to": {
-                    "startLine": 2137,
+                    "startLine": 2145,
                     "startColumn": 4,
-                    "startOffset": 155068,
-                    "endLine": 2138,
+                    "startOffset": 155479,
+                    "endLine": 2146,
                     "endColumn": 12,
-                    "endOffset": 155201
+                    "endOffset": 155612
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12524,11 +12545,11 @@
             },
             {
                 "to": {
-                    "startLine": 2139,
+                    "startLine": 2147,
                     "startColumn": 4,
-                    "startOffset": 155206,
+                    "startOffset": 155617,
                     "endColumn": 25,
-                    "endOffset": 155227
+                    "endOffset": 155638
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -12543,11 +12564,11 @@
             },
             {
                 "to": {
-                    "startLine": 2140,
+                    "startLine": 2148,
                     "startColumn": 4,
-                    "startOffset": 155232,
+                    "startOffset": 155643,
                     "endColumn": 65,
-                    "endOffset": 155293
+                    "endOffset": 155704
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12562,11 +12583,11 @@
             },
             {
                 "to": {
-                    "startLine": 2141,
+                    "startLine": 2149,
                     "startColumn": 4,
-                    "startOffset": 155298,
+                    "startOffset": 155709,
                     "endColumn": 89,
-                    "endOffset": 155383
+                    "endOffset": 155794
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12581,11 +12602,11 @@
             },
             {
                 "to": {
-                    "startLine": 2142,
+                    "startLine": 2150,
                     "startColumn": 4,
-                    "startOffset": 155388,
+                    "startOffset": 155799,
                     "endColumn": 75,
-                    "endOffset": 155459
+                    "endOffset": 155870
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12600,11 +12621,11 @@
             },
             {
                 "to": {
-                    "startLine": 2143,
+                    "startLine": 2151,
                     "startColumn": 4,
-                    "startOffset": 155464,
+                    "startOffset": 155875,
                     "endColumn": 103,
-                    "endOffset": 155563
+                    "endOffset": 155974
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12619,11 +12640,11 @@
             },
             {
                 "to": {
-                    "startLine": 2144,
+                    "startLine": 2152,
                     "startColumn": 4,
-                    "startOffset": 155568,
+                    "startOffset": 155979,
                     "endColumn": 89,
-                    "endOffset": 155653
+                    "endOffset": 156064
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12638,11 +12659,11 @@
             },
             {
                 "to": {
-                    "startLine": 2145,
+                    "startLine": 2153,
                     "startColumn": 4,
-                    "startOffset": 155658,
+                    "startOffset": 156069,
                     "endColumn": 101,
-                    "endOffset": 155755
+                    "endOffset": 156166
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12657,11 +12678,11 @@
             },
             {
                 "to": {
-                    "startLine": 2146,
+                    "startLine": 2154,
                     "startColumn": 4,
-                    "startOffset": 155760,
+                    "startOffset": 156171,
                     "endColumn": 107,
-                    "endOffset": 155863
+                    "endOffset": 156274
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12676,11 +12697,11 @@
             },
             {
                 "to": {
-                    "startLine": 2147,
+                    "startLine": 2155,
                     "startColumn": 4,
-                    "startOffset": 155868,
+                    "startOffset": 156279,
                     "endColumn": 107,
-                    "endOffset": 155971
+                    "endOffset": 156382
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12695,11 +12716,11 @@
             },
             {
                 "to": {
-                    "startLine": 2148,
+                    "startLine": 2156,
                     "startColumn": 4,
-                    "startOffset": 155976,
+                    "startOffset": 156387,
                     "endColumn": 99,
-                    "endOffset": 156071
+                    "endOffset": 156482
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12714,11 +12735,11 @@
             },
             {
                 "to": {
-                    "startLine": 2149,
+                    "startLine": 2157,
                     "startColumn": 4,
-                    "startOffset": 156076,
+                    "startOffset": 156487,
                     "endColumn": 79,
-                    "endOffset": 156151
+                    "endOffset": 156562
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12733,11 +12754,11 @@
             },
             {
                 "to": {
-                    "startLine": 2150,
+                    "startLine": 2158,
                     "startColumn": 4,
-                    "startOffset": 156156,
+                    "startOffset": 156567,
                     "endColumn": 91,
-                    "endOffset": 156243
+                    "endOffset": 156654
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12752,11 +12773,11 @@
             },
             {
                 "to": {
-                    "startLine": 2151,
+                    "startLine": 2159,
                     "startColumn": 4,
-                    "startOffset": 156248,
+                    "startOffset": 156659,
                     "endColumn": 97,
-                    "endOffset": 156341
+                    "endOffset": 156752
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12771,12 +12792,12 @@
             },
             {
                 "to": {
-                    "startLine": 2152,
+                    "startLine": 2160,
                     "startColumn": 4,
-                    "startOffset": 156346,
-                    "endLine": 2153,
+                    "startOffset": 156757,
+                    "endLine": 2161,
                     "endColumn": 12,
-                    "endOffset": 156451
+                    "endOffset": 156862
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12792,11 +12813,11 @@
             },
             {
                 "to": {
-                    "startLine": 2154,
+                    "startLine": 2162,
                     "startColumn": 4,
-                    "startOffset": 156456,
+                    "startOffset": 156867,
                     "endColumn": 77,
-                    "endOffset": 156529
+                    "endOffset": 156940
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12811,11 +12832,11 @@
             },
             {
                 "to": {
-                    "startLine": 2155,
+                    "startLine": 2163,
                     "startColumn": 4,
-                    "startOffset": 156534,
+                    "startOffset": 156945,
                     "endColumn": 105,
-                    "endOffset": 156635
+                    "endOffset": 157046
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12830,11 +12851,11 @@
             },
             {
                 "to": {
-                    "startLine": 2156,
+                    "startLine": 2164,
                     "startColumn": 4,
-                    "startOffset": 156640,
+                    "startOffset": 157051,
                     "endColumn": 91,
-                    "endOffset": 156727
+                    "endOffset": 157138
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12849,11 +12870,11 @@
             },
             {
                 "to": {
-                    "startLine": 2157,
+                    "startLine": 2165,
                     "startColumn": 4,
-                    "startOffset": 156732,
+                    "startOffset": 157143,
                     "endColumn": 103,
-                    "endOffset": 156831
+                    "endOffset": 157242
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12868,11 +12889,11 @@
             },
             {
                 "to": {
-                    "startLine": 2158,
+                    "startLine": 2166,
                     "startColumn": 4,
-                    "startOffset": 156836,
+                    "startOffset": 157247,
                     "endColumn": 109,
-                    "endOffset": 156941
+                    "endOffset": 157352
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12887,12 +12908,12 @@
             },
             {
                 "to": {
-                    "startLine": 2159,
+                    "startLine": 2167,
                     "startColumn": 4,
-                    "startOffset": 156946,
-                    "endLine": 2160,
+                    "startOffset": 157357,
+                    "endLine": 2168,
                     "endColumn": 12,
-                    "endOffset": 157063
+                    "endOffset": 157474
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12908,12 +12929,12 @@
             },
             {
                 "to": {
-                    "startLine": 2161,
+                    "startLine": 2169,
                     "startColumn": 4,
-                    "startOffset": 157068,
-                    "endLine": 2164,
+                    "startOffset": 157479,
+                    "endLine": 2172,
                     "endColumn": 12,
-                    "endOffset": 157226
+                    "endOffset": 157637
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12929,12 +12950,12 @@
             },
             {
                 "to": {
-                    "startLine": 2165,
+                    "startLine": 2173,
                     "startColumn": 4,
-                    "startOffset": 157231,
-                    "endLine": 2168,
+                    "startOffset": 157642,
+                    "endLine": 2176,
                     "endColumn": 12,
-                    "endOffset": 157383
+                    "endOffset": 157794
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -12950,11 +12971,11 @@
             },
             {
                 "to": {
-                    "startLine": 2169,
+                    "startLine": 2177,
                     "startColumn": 4,
-                    "startOffset": 157388,
+                    "startOffset": 157799,
                     "endColumn": 34,
-                    "endOffset": 157418
+                    "endOffset": 157829
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -12969,12 +12990,12 @@
             },
             {
                 "to": {
-                    "startLine": 2170,
+                    "startLine": 2178,
                     "startColumn": 4,
-                    "startOffset": 157423,
-                    "endLine": 2176,
+                    "startOffset": 157834,
+                    "endLine": 2184,
                     "endColumn": 10,
-                    "endOffset": 157836
+                    "endOffset": 158247
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -12990,12 +13011,12 @@
             },
             {
                 "to": {
-                    "startLine": 2177,
+                    "startLine": 2185,
                     "startColumn": 4,
-                    "startOffset": 157841,
-                    "endLine": 2179,
+                    "startOffset": 158252,
+                    "endLine": 2187,
                     "endColumn": 12,
-                    "endOffset": 157990
+                    "endOffset": 158401
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13011,12 +13032,12 @@
             },
             {
                 "to": {
-                    "startLine": 2180,
+                    "startLine": 2188,
                     "startColumn": 4,
-                    "startOffset": 157995,
-                    "endLine": 2184,
+                    "startOffset": 158406,
+                    "endLine": 2192,
                     "endColumn": 12,
-                    "endOffset": 158348
+                    "endOffset": 158759
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13032,12 +13053,12 @@
             },
             {
                 "to": {
-                    "startLine": 2185,
+                    "startLine": 2193,
                     "startColumn": 4,
-                    "startOffset": 158353,
-                    "endLine": 2187,
+                    "startOffset": 158764,
+                    "endLine": 2195,
                     "endColumn": 12,
-                    "endOffset": 158515
+                    "endOffset": 158926
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13053,12 +13074,12 @@
             },
             {
                 "to": {
-                    "startLine": 2188,
+                    "startLine": 2196,
                     "startColumn": 4,
-                    "startOffset": 158520,
-                    "endLine": 2192,
+                    "startOffset": 158931,
+                    "endLine": 2200,
                     "endColumn": 12,
-                    "endOffset": 158885
+                    "endOffset": 159296
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13074,12 +13095,12 @@
             },
             {
                 "to": {
-                    "startLine": 2193,
+                    "startLine": 2201,
                     "startColumn": 4,
-                    "startOffset": 158890,
-                    "endLine": 2196,
+                    "startOffset": 159301,
+                    "endLine": 2204,
                     "endColumn": 12,
-                    "endOffset": 159045
+                    "endOffset": 159456
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13095,12 +13116,12 @@
             },
             {
                 "to": {
-                    "startLine": 2197,
+                    "startLine": 2205,
                     "startColumn": 4,
-                    "startOffset": 159050,
-                    "endLine": 2200,
+                    "startOffset": 159461,
+                    "endLine": 2208,
                     "endColumn": 12,
-                    "endOffset": 159199
+                    "endOffset": 159610
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -13116,12 +13137,12 @@
             },
             {
                 "to": {
-                    "startLine": 2201,
+                    "startLine": 2209,
                     "startColumn": 4,
-                    "startOffset": 159204,
-                    "endLine": 2207,
+                    "startOffset": 159615,
+                    "endLine": 2215,
                     "endColumn": 10,
-                    "endOffset": 159577
+                    "endOffset": 159988
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -13137,12 +13158,12 @@
             },
             {
                 "to": {
-                    "startLine": 2208,
+                    "startLine": 2216,
                     "startColumn": 4,
-                    "startOffset": 159582,
-                    "endLine": 2210,
+                    "startOffset": 159993,
+                    "endLine": 2218,
                     "endColumn": 10,
-                    "endOffset": 159754
+                    "endOffset": 160165
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -13158,12 +13179,12 @@
             },
             {
                 "to": {
-                    "startLine": 2211,
+                    "startLine": 2219,
                     "startColumn": 4,
-                    "startOffset": 159759,
-                    "endLine": 2213,
+                    "startOffset": 160170,
+                    "endLine": 2221,
                     "endColumn": 10,
-                    "endOffset": 159933
+                    "endOffset": 160344
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -13179,12 +13200,12 @@
             },
             {
                 "to": {
-                    "startLine": 2214,
+                    "startLine": 2222,
                     "startColumn": 4,
-                    "startOffset": 159938,
-                    "endLine": 2216,
+                    "startOffset": 160349,
+                    "endLine": 2224,
                     "endColumn": 12,
-                    "endOffset": 160116
+                    "endOffset": 160527
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -13200,12 +13221,12 @@
             },
             {
                 "to": {
-                    "startLine": 2217,
+                    "startLine": 2225,
                     "startColumn": 4,
-                    "startOffset": 160121,
-                    "endLine": 2222,
+                    "startOffset": 160532,
+                    "endLine": 2230,
                     "endColumn": 12,
-                    "endOffset": 160481
+                    "endOffset": 160892
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\values\\values.xml",
@@ -13221,11 +13242,11 @@
             },
             {
                 "to": {
-                    "startLine": 2223,
+                    "startLine": 2231,
                     "startColumn": 4,
-                    "startOffset": 160486,
+                    "startOffset": 160897,
                     "endColumn": 79,
-                    "endOffset": 160561
+                    "endOffset": 160972
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13240,11 +13261,11 @@
             },
             {
                 "to": {
-                    "startLine": 2224,
+                    "startLine": 2232,
                     "startColumn": 4,
-                    "startOffset": 160566,
+                    "startOffset": 160977,
                     "endColumn": 99,
-                    "endOffset": 160661
+                    "endOffset": 161072
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13259,11 +13280,11 @@
             },
             {
                 "to": {
-                    "startLine": 2225,
+                    "startLine": 2233,
                     "startColumn": 4,
-                    "startOffset": 160666,
+                    "startOffset": 161077,
                     "endColumn": 89,
-                    "endOffset": 160751
+                    "endOffset": 161162
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13278,11 +13299,11 @@
             },
             {
                 "to": {
-                    "startLine": 2226,
+                    "startLine": 2234,
                     "startColumn": 4,
-                    "startOffset": 160756,
+                    "startOffset": 161167,
                     "endColumn": 109,
-                    "endOffset": 160861
+                    "endOffset": 161272
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13297,11 +13318,11 @@
             },
             {
                 "to": {
-                    "startLine": 2227,
+                    "startLine": 2235,
                     "startColumn": 4,
-                    "startOffset": 160866,
+                    "startOffset": 161277,
                     "endColumn": 93,
-                    "endOffset": 160955
+                    "endOffset": 161366
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13316,11 +13337,11 @@
             },
             {
                 "to": {
-                    "startLine": 2228,
+                    "startLine": 2236,
                     "startColumn": 4,
-                    "startOffset": 160960,
+                    "startOffset": 161371,
                     "endColumn": 105,
-                    "endOffset": 161061
+                    "endOffset": 161472
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13335,11 +13356,11 @@
             },
             {
                 "to": {
-                    "startLine": 2229,
+                    "startLine": 2237,
                     "startColumn": 4,
-                    "startOffset": 161066,
+                    "startOffset": 161477,
                     "endColumn": 91,
-                    "endOffset": 161153
+                    "endOffset": 161564
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13354,12 +13375,12 @@
             },
             {
                 "to": {
-                    "startLine": 2230,
+                    "startLine": 2238,
                     "startColumn": 4,
-                    "startOffset": 161158,
-                    "endLine": 2231,
+                    "startOffset": 161569,
+                    "endLine": 2239,
                     "endColumn": 12,
-                    "endOffset": 161253
+                    "endOffset": 161664
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13375,12 +13396,12 @@
             },
             {
                 "to": {
-                    "startLine": 2232,
+                    "startLine": 2240,
                     "startColumn": 4,
-                    "startOffset": 161258,
-                    "endLine": 2233,
+                    "startOffset": 161669,
+                    "endLine": 2241,
                     "endColumn": 12,
-                    "endOffset": 161365
+                    "endOffset": 161776
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13396,12 +13417,12 @@
             },
             {
                 "to": {
-                    "startLine": 2234,
+                    "startLine": 2242,
                     "startColumn": 4,
-                    "startOffset": 161370,
-                    "endLine": 2235,
+                    "startOffset": 161781,
+                    "endLine": 2243,
                     "endColumn": 12,
-                    "endOffset": 161479
+                    "endOffset": 161890
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13417,12 +13438,12 @@
             },
             {
                 "to": {
-                    "startLine": 2236,
+                    "startLine": 2244,
                     "startColumn": 4,
-                    "startOffset": 161484,
-                    "endLine": 2237,
+                    "startOffset": 161895,
+                    "endLine": 2245,
                     "endColumn": 12,
-                    "endOffset": 161595
+                    "endOffset": 162006
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13438,12 +13459,12 @@
             },
             {
                 "to": {
-                    "startLine": 2238,
+                    "startLine": 2246,
                     "startColumn": 4,
-                    "startOffset": 161600,
-                    "endLine": 2239,
+                    "startOffset": 162011,
+                    "endLine": 2247,
                     "endColumn": 12,
-                    "endOffset": 161711
+                    "endOffset": 162122
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13459,11 +13480,11 @@
             },
             {
                 "to": {
-                    "startLine": 2240,
+                    "startLine": 2248,
                     "startColumn": 4,
-                    "startOffset": 161716,
+                    "startOffset": 162127,
                     "endColumn": 93,
-                    "endOffset": 161805
+                    "endOffset": 162216
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13478,11 +13499,11 @@
             },
             {
                 "to": {
-                    "startLine": 2241,
+                    "startLine": 2249,
                     "startColumn": 4,
-                    "startOffset": 161810,
+                    "startOffset": 162221,
                     "endColumn": 113,
-                    "endOffset": 161919
+                    "endOffset": 162330
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13497,11 +13518,11 @@
             },
             {
                 "to": {
-                    "startLine": 2242,
+                    "startLine": 2250,
                     "startColumn": 4,
-                    "startOffset": 161924,
+                    "startOffset": 162335,
                     "endColumn": 111,
-                    "endOffset": 162031
+                    "endOffset": 162442
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13516,12 +13537,12 @@
             },
             {
                 "to": {
-                    "startLine": 2243,
+                    "startLine": 2251,
                     "startColumn": 4,
-                    "startOffset": 162036,
-                    "endLine": 2244,
+                    "startOffset": 162447,
+                    "endLine": 2252,
                     "endColumn": 12,
-                    "endOffset": 162133
+                    "endOffset": 162544
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13537,12 +13558,12 @@
             },
             {
                 "to": {
-                    "startLine": 2245,
+                    "startLine": 2253,
                     "startColumn": 4,
-                    "startOffset": 162138,
-                    "endLine": 2246,
+                    "startOffset": 162549,
+                    "endLine": 2254,
                     "endColumn": 12,
-                    "endOffset": 162253
+                    "endOffset": 162664
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13558,12 +13579,12 @@
             },
             {
                 "to": {
-                    "startLine": 2247,
+                    "startLine": 2255,
                     "startColumn": 4,
-                    "startOffset": 162258,
-                    "endLine": 2248,
+                    "startOffset": 162669,
+                    "endLine": 2256,
                     "endColumn": 12,
-                    "endOffset": 162375
+                    "endOffset": 162786
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13579,11 +13600,11 @@
             },
             {
                 "to": {
-                    "startLine": 2249,
+                    "startLine": 2257,
                     "startColumn": 4,
-                    "startOffset": 162380,
+                    "startOffset": 162791,
                     "endColumn": 81,
-                    "endOffset": 162457
+                    "endOffset": 162868
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13598,11 +13619,11 @@
             },
             {
                 "to": {
-                    "startLine": 2250,
+                    "startLine": 2258,
                     "startColumn": 4,
-                    "startOffset": 162462,
+                    "startOffset": 162873,
                     "endColumn": 103,
-                    "endOffset": 162561
+                    "endOffset": 162972
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13617,11 +13638,11 @@
             },
             {
                 "to": {
-                    "startLine": 2251,
+                    "startLine": 2259,
                     "startColumn": 4,
-                    "startOffset": 162566,
+                    "startOffset": 162977,
                     "endColumn": 119,
-                    "endOffset": 162681
+                    "endOffset": 163092
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13636,11 +13657,11 @@
             },
             {
                 "to": {
-                    "startLine": 2252,
+                    "startLine": 2260,
                     "startColumn": 4,
-                    "startOffset": 162686,
+                    "startOffset": 163097,
                     "endColumn": 125,
-                    "endOffset": 162807
+                    "endOffset": 163218
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13655,11 +13676,11 @@
             },
             {
                 "to": {
-                    "startLine": 2253,
+                    "startLine": 2261,
                     "startColumn": 4,
-                    "startOffset": 162812,
+                    "startOffset": 163223,
                     "endColumn": 97,
-                    "endOffset": 162905
+                    "endOffset": 163316
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13674,11 +13695,11 @@
             },
             {
                 "to": {
-                    "startLine": 2254,
+                    "startLine": 2262,
                     "startColumn": 4,
-                    "startOffset": 162910,
+                    "startOffset": 163321,
                     "endColumn": 93,
-                    "endOffset": 162999
+                    "endOffset": 163410
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13693,11 +13714,11 @@
             },
             {
                 "to": {
-                    "startLine": 2255,
+                    "startLine": 2263,
                     "startColumn": 4,
-                    "startOffset": 163004,
+                    "startOffset": 163415,
                     "endColumn": 87,
-                    "endOffset": 163087
+                    "endOffset": 163498
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13712,11 +13733,11 @@
             },
             {
                 "to": {
-                    "startLine": 2256,
+                    "startLine": 2264,
                     "startColumn": 4,
-                    "startOffset": 163092,
+                    "startOffset": 163503,
                     "endColumn": 111,
-                    "endOffset": 163199
+                    "endOffset": 163610
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13731,11 +13752,11 @@
             },
             {
                 "to": {
-                    "startLine": 2257,
+                    "startLine": 2265,
                     "startColumn": 4,
-                    "startOffset": 163204,
+                    "startOffset": 163615,
                     "endColumn": 115,
-                    "endOffset": 163315
+                    "endOffset": 163726
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13750,11 +13771,11 @@
             },
             {
                 "to": {
-                    "startLine": 2258,
+                    "startLine": 2266,
                     "startColumn": 4,
-                    "startOffset": 163320,
+                    "startOffset": 163731,
                     "endColumn": 121,
-                    "endOffset": 163437
+                    "endOffset": 163848
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13769,11 +13790,11 @@
             },
             {
                 "to": {
-                    "startLine": 2259,
+                    "startLine": 2267,
                     "startColumn": 4,
-                    "startOffset": 163442,
+                    "startOffset": 163853,
                     "endColumn": 111,
-                    "endOffset": 163549
+                    "endOffset": 163960
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13788,12 +13809,12 @@
             },
             {
                 "to": {
-                    "startLine": 2260,
+                    "startLine": 2268,
                     "startColumn": 4,
-                    "startOffset": 163554,
-                    "endLine": 2262,
+                    "startOffset": 163965,
+                    "endLine": 2270,
                     "endColumn": 12,
-                    "endOffset": 163724
+                    "endOffset": 164135
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13809,11 +13830,11 @@
             },
             {
                 "to": {
-                    "startLine": 2263,
+                    "startLine": 2271,
                     "startColumn": 4,
-                    "startOffset": 163729,
+                    "startOffset": 164140,
                     "endColumn": 115,
-                    "endOffset": 163840
+                    "endOffset": 164251
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13828,11 +13849,11 @@
             },
             {
                 "to": {
-                    "startLine": 2264,
+                    "startLine": 2272,
                     "startColumn": 4,
-                    "startOffset": 163845,
+                    "startOffset": 164256,
                     "endColumn": 85,
-                    "endOffset": 163926
+                    "endOffset": 164337
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13847,11 +13868,11 @@
             },
             {
                 "to": {
-                    "startLine": 2265,
+                    "startLine": 2273,
                     "startColumn": 4,
-                    "startOffset": 163931,
+                    "startOffset": 164342,
                     "endColumn": 91,
-                    "endOffset": 164018
+                    "endOffset": 164429
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13866,12 +13887,12 @@
             },
             {
                 "to": {
-                    "startLine": 2266,
+                    "startLine": 2274,
                     "startColumn": 4,
-                    "startOffset": 164023,
-                    "endLine": 2267,
+                    "startOffset": 164434,
+                    "endLine": 2275,
                     "endColumn": 12,
-                    "endOffset": 164130
+                    "endOffset": 164541
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13887,12 +13908,12 @@
             },
             {
                 "to": {
-                    "startLine": 2268,
+                    "startLine": 2276,
                     "startColumn": 4,
-                    "startOffset": 164135,
-                    "endLine": 2269,
+                    "startOffset": 164546,
+                    "endLine": 2277,
                     "endColumn": 12,
-                    "endOffset": 164254
+                    "endOffset": 164665
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13908,11 +13929,11 @@
             },
             {
                 "to": {
-                    "startLine": 2270,
+                    "startLine": 2278,
                     "startColumn": 4,
-                    "startOffset": 164259,
+                    "startOffset": 164670,
                     "endColumn": 66,
-                    "endOffset": 164321
+                    "endOffset": 164732
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13927,12 +13948,12 @@
             },
             {
                 "to": {
-                    "startLine": 2271,
+                    "startLine": 2279,
                     "startColumn": 4,
-                    "startOffset": 164326,
-                    "endLine": 2272,
+                    "startOffset": 164737,
+                    "endLine": 2280,
                     "endColumn": 12,
-                    "endOffset": 164447
+                    "endOffset": 164858
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13948,11 +13969,11 @@
             },
             {
                 "to": {
-                    "startLine": 2273,
+                    "startLine": 2281,
                     "startColumn": 4,
-                    "startOffset": 164452,
+                    "startOffset": 164863,
                     "endColumn": 67,
-                    "endOffset": 164515
+                    "endOffset": 164926
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13967,12 +13988,12 @@
             },
             {
                 "to": {
-                    "startLine": 2274,
+                    "startLine": 2282,
                     "startColumn": 4,
-                    "startOffset": 164520,
-                    "endLine": 2275,
+                    "startOffset": 164931,
+                    "endLine": 2283,
                     "endColumn": 12,
-                    "endOffset": 164643
+                    "endOffset": 165054
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -13988,12 +14009,12 @@
             },
             {
                 "to": {
-                    "startLine": 2276,
+                    "startLine": 2284,
                     "startColumn": 4,
-                    "startOffset": 164648,
-                    "endLine": 2277,
+                    "startOffset": 165059,
+                    "endLine": 2285,
                     "endColumn": 12,
-                    "endOffset": 164787
+                    "endOffset": 165198
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14009,12 +14030,12 @@
             },
             {
                 "to": {
-                    "startLine": 2278,
+                    "startLine": 2286,
                     "startColumn": 4,
-                    "startOffset": 164792,
-                    "endLine": 2279,
+                    "startOffset": 165203,
+                    "endLine": 2287,
                     "endColumn": 12,
-                    "endOffset": 164915
+                    "endOffset": 165326
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14030,11 +14051,11 @@
             },
             {
                 "to": {
-                    "startLine": 2280,
+                    "startLine": 2288,
                     "startColumn": 4,
-                    "startOffset": 164920,
+                    "startOffset": 165331,
                     "endColumn": 68,
-                    "endOffset": 164984
+                    "endOffset": 165395
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14049,11 +14070,11 @@
             },
             {
                 "to": {
-                    "startLine": 2281,
+                    "startLine": 2289,
                     "startColumn": 4,
-                    "startOffset": 164989,
+                    "startOffset": 165400,
                     "endColumn": 94,
-                    "endOffset": 165079
+                    "endOffset": 165490
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14068,11 +14089,11 @@
             },
             {
                 "to": {
-                    "startLine": 2282,
+                    "startLine": 2290,
                     "startColumn": 4,
-                    "startOffset": 165084,
+                    "startOffset": 165495,
                     "endColumn": 114,
-                    "endOffset": 165194
+                    "endOffset": 165605
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14087,11 +14108,11 @@
             },
             {
                 "to": {
-                    "startLine": 2283,
+                    "startLine": 2291,
                     "startColumn": 4,
-                    "startOffset": 165199,
+                    "startOffset": 165610,
                     "endColumn": 112,
-                    "endOffset": 165307
+                    "endOffset": 165718
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14106,11 +14127,11 @@
             },
             {
                 "to": {
-                    "startLine": 2284,
+                    "startLine": 2292,
                     "startColumn": 4,
-                    "startOffset": 165312,
+                    "startOffset": 165723,
                     "endColumn": 98,
-                    "endOffset": 165406
+                    "endOffset": 165817
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14125,11 +14146,11 @@
             },
             {
                 "to": {
-                    "startLine": 2285,
+                    "startLine": 2293,
                     "startColumn": 4,
-                    "startOffset": 165411,
+                    "startOffset": 165822,
                     "endColumn": 108,
-                    "endOffset": 165515
+                    "endOffset": 165926
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14144,11 +14165,11 @@
             },
             {
                 "to": {
-                    "startLine": 2286,
+                    "startLine": 2294,
                     "startColumn": 4,
-                    "startOffset": 165520,
+                    "startOffset": 165931,
                     "endColumn": 110,
-                    "endOffset": 165626
+                    "endOffset": 166037
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14163,11 +14184,11 @@
             },
             {
                 "to": {
-                    "startLine": 2287,
+                    "startLine": 2295,
                     "startColumn": 4,
-                    "startOffset": 165631,
+                    "startOffset": 166042,
                     "endColumn": 110,
-                    "endOffset": 165737
+                    "endOffset": 166148
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14182,11 +14203,11 @@
             },
             {
                 "to": {
-                    "startLine": 2288,
+                    "startLine": 2296,
                     "startColumn": 4,
-                    "startOffset": 165742,
+                    "startOffset": 166153,
                     "endColumn": 100,
-                    "endOffset": 165838
+                    "endOffset": 166249
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14201,11 +14222,11 @@
             },
             {
                 "to": {
-                    "startLine": 2289,
+                    "startLine": 2297,
                     "startColumn": 4,
-                    "startOffset": 165843,
+                    "startOffset": 166254,
                     "endColumn": 104,
-                    "endOffset": 165943
+                    "endOffset": 166354
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14220,11 +14241,11 @@
             },
             {
                 "to": {
-                    "startLine": 2290,
+                    "startLine": 2298,
                     "startColumn": 4,
-                    "startOffset": 165948,
+                    "startOffset": 166359,
                     "endColumn": 99,
-                    "endOffset": 166043
+                    "endOffset": 166454
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14239,12 +14260,12 @@
             },
             {
                 "to": {
-                    "startLine": 2291,
+                    "startLine": 2299,
                     "startColumn": 4,
-                    "startOffset": 166048,
-                    "endLine": 2292,
+                    "startOffset": 166459,
+                    "endLine": 2300,
                     "endColumn": 12,
-                    "endOffset": 166173
+                    "endOffset": 166584
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14260,11 +14281,11 @@
             },
             {
                 "to": {
-                    "startLine": 2293,
+                    "startLine": 2301,
                     "startColumn": 4,
-                    "startOffset": 166178,
+                    "startOffset": 166589,
                     "endColumn": 90,
-                    "endOffset": 166264
+                    "endOffset": 166675
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14279,11 +14300,11 @@
             },
             {
                 "to": {
-                    "startLine": 2294,
+                    "startLine": 2302,
                     "startColumn": 4,
-                    "startOffset": 166269,
+                    "startOffset": 166680,
                     "endColumn": 122,
-                    "endOffset": 166387
+                    "endOffset": 166798
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14298,11 +14319,11 @@
             },
             {
                 "to": {
-                    "startLine": 2295,
+                    "startLine": 2303,
                     "startColumn": 4,
-                    "startOffset": 166392,
+                    "startOffset": 166803,
                     "endColumn": 93,
-                    "endOffset": 166481
+                    "endOffset": 166892
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14317,12 +14338,12 @@
             },
             {
                 "to": {
-                    "startLine": 2296,
+                    "startLine": 2304,
                     "startColumn": 4,
-                    "startOffset": 166486,
-                    "endLine": 2297,
+                    "startOffset": 166897,
+                    "endLine": 2305,
                     "endColumn": 12,
-                    "endOffset": 166593
+                    "endOffset": 167004
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14338,11 +14359,11 @@
             },
             {
                 "to": {
-                    "startLine": 2298,
+                    "startLine": 2306,
                     "startColumn": 4,
-                    "startOffset": 166598,
+                    "startOffset": 167009,
                     "endColumn": 85,
-                    "endOffset": 166679
+                    "endOffset": 167090
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14357,11 +14378,11 @@
             },
             {
                 "to": {
-                    "startLine": 2299,
+                    "startLine": 2307,
                     "startColumn": 4,
-                    "startOffset": 166684,
+                    "startOffset": 167095,
                     "endColumn": 103,
-                    "endOffset": 166783
+                    "endOffset": 167194
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14376,11 +14397,11 @@
             },
             {
                 "to": {
-                    "startLine": 2300,
+                    "startLine": 2308,
                     "startColumn": 4,
-                    "startOffset": 166788,
+                    "startOffset": 167199,
                     "endColumn": 95,
-                    "endOffset": 166879
+                    "endOffset": 167290
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14395,11 +14416,11 @@
             },
             {
                 "to": {
-                    "startLine": 2301,
+                    "startLine": 2309,
                     "startColumn": 4,
-                    "startOffset": 166884,
+                    "startOffset": 167295,
                     "endColumn": 74,
-                    "endOffset": 166954
+                    "endOffset": 167365
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14414,11 +14435,11 @@
             },
             {
                 "to": {
-                    "startLine": 2302,
+                    "startLine": 2310,
                     "startColumn": 4,
-                    "startOffset": 166959,
+                    "startOffset": 167370,
                     "endColumn": 69,
-                    "endOffset": 167024
+                    "endOffset": 167435
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14433,11 +14454,11 @@
             },
             {
                 "to": {
-                    "startLine": 2303,
+                    "startLine": 2311,
                     "startColumn": 4,
-                    "startOffset": 167029,
+                    "startOffset": 167440,
                     "endColumn": 87,
-                    "endOffset": 167112
+                    "endOffset": 167523
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14452,12 +14473,12 @@
             },
             {
                 "to": {
-                    "startLine": 2304,
+                    "startLine": 2312,
                     "startColumn": 4,
-                    "startOffset": 167117,
-                    "endLine": 2305,
+                    "startOffset": 167528,
+                    "endLine": 2313,
                     "endColumn": 12,
-                    "endOffset": 167230
+                    "endOffset": 167641
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14473,12 +14494,12 @@
             },
             {
                 "to": {
-                    "startLine": 2306,
+                    "startLine": 2314,
                     "startColumn": 4,
-                    "startOffset": 167235,
-                    "endLine": 2307,
+                    "startOffset": 167646,
+                    "endLine": 2315,
                     "endColumn": 12,
-                    "endOffset": 167334
+                    "endOffset": 167745
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14494,12 +14515,12 @@
             },
             {
                 "to": {
-                    "startLine": 2308,
+                    "startLine": 2316,
                     "startColumn": 4,
-                    "startOffset": 167339,
-                    "endLine": 2309,
+                    "startOffset": 167750,
+                    "endLine": 2317,
                     "endColumn": 12,
-                    "endOffset": 167438
+                    "endOffset": 167849
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14515,12 +14536,12 @@
             },
             {
                 "to": {
-                    "startLine": 2310,
+                    "startLine": 2318,
                     "startColumn": 4,
-                    "startOffset": 167443,
-                    "endLine": 2311,
+                    "startOffset": 167854,
+                    "endLine": 2319,
                     "endColumn": 12,
-                    "endOffset": 167564
+                    "endOffset": 167975
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14536,11 +14557,11 @@
             },
             {
                 "to": {
-                    "startLine": 2312,
+                    "startLine": 2320,
                     "startColumn": 4,
-                    "startOffset": 167569,
+                    "startOffset": 167980,
                     "endColumn": 87,
-                    "endOffset": 167652
+                    "endOffset": 168063
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14555,11 +14576,11 @@
             },
             {
                 "to": {
-                    "startLine": 2313,
+                    "startLine": 2321,
                     "startColumn": 4,
-                    "startOffset": 167657,
+                    "startOffset": 168068,
                     "endColumn": 107,
-                    "endOffset": 167760
+                    "endOffset": 168171
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14574,11 +14595,11 @@
             },
             {
                 "to": {
-                    "startLine": 2314,
+                    "startLine": 2322,
                     "startColumn": 4,
-                    "startOffset": 167765,
+                    "startOffset": 168176,
                     "endColumn": 99,
-                    "endOffset": 167860
+                    "endOffset": 168271
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14593,11 +14614,11 @@
             },
             {
                 "to": {
-                    "startLine": 2315,
+                    "startLine": 2323,
                     "startColumn": 4,
-                    "startOffset": 167865,
+                    "startOffset": 168276,
                     "endColumn": 89,
-                    "endOffset": 167950
+                    "endOffset": 168361
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14612,11 +14633,11 @@
             },
             {
                 "to": {
-                    "startLine": 2316,
+                    "startLine": 2324,
                     "startColumn": 4,
-                    "startOffset": 167955,
+                    "startOffset": 168366,
                     "endColumn": 109,
-                    "endOffset": 168060
+                    "endOffset": 168471
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14631,11 +14652,11 @@
             },
             {
                 "to": {
-                    "startLine": 2317,
+                    "startLine": 2325,
                     "startColumn": 4,
-                    "startOffset": 168065,
+                    "startOffset": 168476,
                     "endColumn": 83,
-                    "endOffset": 168144
+                    "endOffset": 168555
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14650,11 +14671,11 @@
             },
             {
                 "to": {
-                    "startLine": 2318,
+                    "startLine": 2326,
                     "startColumn": 4,
-                    "startOffset": 168149,
+                    "startOffset": 168560,
                     "endColumn": 101,
-                    "endOffset": 168246
+                    "endOffset": 168657
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14669,11 +14690,11 @@
             },
             {
                 "to": {
-                    "startLine": 2319,
+                    "startLine": 2327,
                     "startColumn": 4,
-                    "startOffset": 168251,
+                    "startOffset": 168662,
                     "endColumn": 83,
-                    "endOffset": 168330
+                    "endOffset": 168741
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14688,11 +14709,11 @@
             },
             {
                 "to": {
-                    "startLine": 2320,
+                    "startLine": 2328,
                     "startColumn": 4,
-                    "startOffset": 168335,
+                    "startOffset": 168746,
                     "endColumn": 53,
-                    "endOffset": 168384
+                    "endOffset": 168795
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14707,11 +14728,11 @@
             },
             {
                 "to": {
-                    "startLine": 2321,
+                    "startLine": 2329,
                     "startColumn": 4,
-                    "startOffset": 168389,
+                    "startOffset": 168800,
                     "endColumn": 63,
-                    "endOffset": 168448
+                    "endOffset": 168859
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14726,11 +14747,11 @@
             },
             {
                 "to": {
-                    "startLine": 2322,
+                    "startLine": 2330,
                     "startColumn": 4,
-                    "startOffset": 168453,
+                    "startOffset": 168864,
                     "endColumn": 105,
-                    "endOffset": 168554
+                    "endOffset": 168965
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14745,11 +14766,11 @@
             },
             {
                 "to": {
-                    "startLine": 2323,
+                    "startLine": 2331,
                     "startColumn": 4,
-                    "startOffset": 168559,
+                    "startOffset": 168970,
                     "endColumn": 109,
-                    "endOffset": 168664
+                    "endOffset": 169075
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14764,11 +14785,11 @@
             },
             {
                 "to": {
-                    "startLine": 2324,
+                    "startLine": 2332,
                     "startColumn": 4,
-                    "startOffset": 168669,
+                    "startOffset": 169080,
                     "endColumn": 83,
-                    "endOffset": 168748
+                    "endOffset": 169159
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14783,11 +14804,11 @@
             },
             {
                 "to": {
-                    "startLine": 2325,
+                    "startLine": 2333,
                     "startColumn": 4,
-                    "startOffset": 168753,
+                    "startOffset": 169164,
                     "endColumn": 119,
-                    "endOffset": 168868
+                    "endOffset": 169279
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values\\values.xml",
@@ -14802,12 +14823,12 @@
             },
             {
                 "to": {
-                    "startLine": 2326,
+                    "startLine": 2334,
                     "startColumn": 4,
-                    "startOffset": 168873,
-                    "endLine": 2327,
+                    "startOffset": 169284,
+                    "endLine": 2335,
                     "endColumn": 12,
-                    "endOffset": 168968
+                    "endOffset": 169379
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14823,12 +14844,12 @@
             },
             {
                 "to": {
-                    "startLine": 2328,
+                    "startLine": 2336,
                     "startColumn": 4,
-                    "startOffset": 168973,
-                    "endLine": 2331,
+                    "startOffset": 169384,
+                    "endLine": 2339,
                     "endColumn": 12,
-                    "endOffset": 169209
+                    "endOffset": 169620
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14844,12 +14865,12 @@
             },
             {
                 "to": {
-                    "startLine": 2332,
+                    "startLine": 2340,
                     "startColumn": 4,
-                    "startOffset": 169214,
-                    "endLine": 2338,
+                    "startOffset": 169625,
+                    "endLine": 2346,
                     "endColumn": 12,
-                    "endOffset": 169644
+                    "endOffset": 170055
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14865,12 +14886,12 @@
             },
             {
                 "to": {
-                    "startLine": 2339,
+                    "startLine": 2347,
                     "startColumn": 4,
-                    "startOffset": 169649,
-                    "endLine": 2342,
+                    "startOffset": 170060,
+                    "endLine": 2350,
                     "endColumn": 12,
-                    "endOffset": 169851
+                    "endOffset": 170262
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14886,12 +14907,12 @@
             },
             {
                 "to": {
-                    "startLine": 2343,
+                    "startLine": 2351,
                     "startColumn": 4,
-                    "startOffset": 169856,
-                    "endLine": 2345,
+                    "startOffset": 170267,
+                    "endLine": 2353,
                     "endColumn": 12,
-                    "endOffset": 170010
+                    "endOffset": 170421
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14907,12 +14928,12 @@
             },
             {
                 "to": {
-                    "startLine": 2346,
+                    "startLine": 2354,
                     "startColumn": 4,
-                    "startOffset": 170015,
-                    "endLine": 2354,
+                    "startOffset": 170426,
+                    "endLine": 2362,
                     "endColumn": 12,
-                    "endOffset": 170575
+                    "endOffset": 170986
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14928,12 +14949,12 @@
             },
             {
                 "to": {
-                    "startLine": 2355,
+                    "startLine": 2363,
                     "startColumn": 4,
-                    "startOffset": 170580,
-                    "endLine": 2360,
+                    "startOffset": 170991,
+                    "endLine": 2368,
                     "endColumn": 12,
-                    "endOffset": 170936
+                    "endOffset": 171347
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14949,12 +14970,12 @@
             },
             {
                 "to": {
-                    "startLine": 2361,
+                    "startLine": 2369,
                     "startColumn": 4,
-                    "startOffset": 170941,
-                    "endLine": 2363,
+                    "startOffset": 171352,
+                    "endLine": 2371,
                     "endColumn": 12,
-                    "endOffset": 171065
+                    "endOffset": 171476
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14970,12 +14991,12 @@
             },
             {
                 "to": {
-                    "startLine": 2364,
+                    "startLine": 2372,
                     "startColumn": 4,
-                    "startOffset": 171070,
-                    "endLine": 2372,
+                    "startOffset": 171481,
+                    "endLine": 2380,
                     "endColumn": 12,
-                    "endOffset": 171732
+                    "endOffset": 172143
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -14991,12 +15012,12 @@
             },
             {
                 "to": {
-                    "startLine": 2373,
+                    "startLine": 2381,
                     "startColumn": 4,
-                    "startOffset": 171737,
-                    "endLine": 2376,
+                    "startOffset": 172148,
+                    "endLine": 2384,
                     "endColumn": 12,
-                    "endOffset": 171912
+                    "endOffset": 172323
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",
@@ -15012,12 +15033,12 @@
             },
             {
                 "to": {
-                    "startLine": 2377,
+                    "startLine": 2385,
                     "startColumn": 4,
-                    "startOffset": 171917,
-                    "endLine": 2385,
+                    "startOffset": 172328,
+                    "endLine": 2393,
                     "endColumn": 12,
-                    "endOffset": 172621
+                    "endOffset": 173032
                 },
                 "from": {
                     "file": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\values\\values.xml",

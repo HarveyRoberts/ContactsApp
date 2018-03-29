@@ -138,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\ContactsApp\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4bc7e4c88d8a58037f153bc224b47da51ae40f2f">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-react-native-image-picker-unspecified_4b118414ce18b66248a9b3b1906de1937ae2e7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
