@@ -9,8 +9,10 @@ import AddContactScreen from "./src/screens/Contacts/AddContact";
 import OptionsScreen from "./src/screens/Options/Options";
 import DrawerScreen from "./src/screens/Drawer/Drawer";
 import configureStore from "./src/store/config";
+//import configureRealm from "./src/realm/config";
 
 const store = configureStore();
+//configureRealm();
 
 Navigation.registerComponent(
 	"ContactsApp.LoginScreen",

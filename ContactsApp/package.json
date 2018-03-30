@@ -24,6 +24,8 @@
     "react-native-navigation": "^1.1.403",
     "react-native-vector-icons": "^4.5.0",
     "react-redux": "^5.0.7",
-    "redux": "^3.7.2"
+    "realm": "^2.3.3",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   }
 }

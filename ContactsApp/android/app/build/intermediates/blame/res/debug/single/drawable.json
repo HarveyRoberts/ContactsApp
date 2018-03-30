@@ -40,12 +40,12 @@
         "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
         "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
@@ -156,16 +156,16 @@
         "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",

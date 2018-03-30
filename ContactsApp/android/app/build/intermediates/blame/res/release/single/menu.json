@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\release\\menu\\stub.xml",
+        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\menu\\stub.xml"
+    },
+    {
+        "merged": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\res\\merged\\release\\menu\\search_item.xml",
+        "source": "D:\\Sync\\CS Dev\\React-Native\\ContactsApp\\ContactsApp\\android\\app\\build\\intermediates\\exploded-aar\\ContactsApp\\react-native-navigation\\unspecified\\res\\menu\\search_item.xml"
+    }
+]

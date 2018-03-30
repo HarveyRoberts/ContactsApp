@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_6889aa0069bf91d3f0b2ca8f2948c04150259258.jar" />
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_baf961b4ba73955222092bbe738b43dfdddecbd9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,21 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_baf961b4ba73955222092bbe738b43dfdddecbd9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b4be845545edf81ca642dd25220a649dab4f0d30.jar" />
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8dd0d1d6af57608b8589162d894236360bab326e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,39 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8dd0d1d6af57608b8589162d894236360bab326e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_72b669bc217dc2b87187eef4760aec3fe67c9b85.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b4be845545edf81ca642dd25220a649dab4f0d30.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\ContactsApp\react-native-vector-icons\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-react-native-vector-icons-unspecified_2f8e91525b705a102e81b16a93f8530a866720de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,15 +75,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_fea6ed03c512f24e50b360a0f9b7bca2a95fb800.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -135,6 +90,222 @@
         revision="23.0.1"
         sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-react-native-vector-icons-unspecified_2f8e91525b705a102e81b16a93f8530a866720de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8710a6959262e68884b1271aabfb73c6b7ff9073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ae125c888aa3e0dbb1080661f33a70340559e868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c9b384930b543eb635470e38f1f2a78e3d357a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b7cb7994123916389d4786ffc9260ef442e45e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_7e4469530d531b4744b6580e543c61a414415d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f8b6ad69143be0de6312e2cb016c7b4545fcc716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_cd56fd381fa47eb0c3c841a1ccd12d4087cd0714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_825f54833febd7bd50b233a20db690e2672ffaf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a2b150c8231646cb23407966babcda6d300441eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_1a5972e889fe1e8c12c1853e63e415079859f563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_147654aa912869e52ed1ffbcd19c1fb042c9c531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2148c6fdd512d52ff094d9e009eeb05abb32a06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_8096bb7681b2ea2b09f2d34a0ae4f7f8db500781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_137c6b8ec742f7e5b5a271fe2407d6972ecb57d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_1440c08906399f27be18efc09f91af134ed62cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_0aad37f56310b417ba416129c8b4679532a0ae4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_830dcbdd35049d79286a3f2e13c340c1958fb779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_af736c104df526f7511fed42f86fba358efe1135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_baf961b4ba73955222092bbe738b43dfdddecbd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_6889aa0069bf91d3f0b2ca8f2948c04150259258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b4be845545edf81ca642dd25220a649dab4f0d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_72b669bc217dc2b87187eef4760aec3fe67c9b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\ContactsApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-react-native-vector-icons-unspecified_2f8e91525b705a102e81b16a93f8530a866720de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_fea6ed03c512f24e50b360a0f9b7bca2a95fb800.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +327,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.2.0\73a02117620b6cc7683a1ed6ae24c2f36e2a715\nanohttpd-2.2.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8710a6959262e68884b1271aabfb73c6b7ff9073.jar" />
+        revision="25.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\nanohttpd-2.2.0_c80db2f8c7e03f4be9bbe65507c58b25c56ef490.jar" />
     </item>
     <item
         is-multidex="false"
@@ -171,15 +342,6 @@
         revision="25.0.1"
         sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_aadab8af2624149d9015860911a2c8b5acbbe575.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ae125c888aa3e0dbb1080661f33a70340559e868.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,15 +381,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c9b384930b543eb635470e38f1f2a78e3d357a24.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -243,24 +396,6 @@
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b7cb7994123916389d4786ffc9260ef442e45e61.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b7cb7994123916389d4786ffc9260ef442e45e61.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_7e4469530d531b4744b6580e543c61a414415d39.jar" />
     </item>
     <item
         is-multidex="false"
@@ -282,15 +417,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f8b6ad69143be0de6312e2cb016c7b4545fcc716.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -300,24 +426,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_cd56fd381fa47eb0c3c841a1ccd12d4087cd0714.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_825f54833febd7bd50b233a20db690e2672ffaf7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -333,33 +441,6 @@
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a2b150c8231646cb23407966babcda6d300441eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a2b150c8231646cb23407966babcda6d300441eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_1a5972e889fe1e8c12c1853e63e415079859f563.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_147654aa912869e52ed1ffbcd19c1fb042c9c531.jar" />
     </item>
     <item
         is-multidex="false"
@@ -381,37 +462,10 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2148c6fdd512d52ff094d9e009eeb05abb32a06f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_137c6b8ec742f7e5b5a271fe2407d6972ecb57d5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_8096bb7681b2ea2b09f2d34a0ae4f7f8db500781.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_137c6b8ec742f7e5b5a271fe2407d6972ecb57d5.jar" />
     </item>
@@ -426,24 +480,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_1440c08906399f27be18efc09f91af134ed62cc6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_0aad37f56310b417ba416129c8b4679532a0ae4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -453,21 +489,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jar="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\exploded-aar\ContactsApp\realm\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_830dcbdd35049d79286a3f2e13c340c1958fb779.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_af736c104df526f7511fed42f86fba358efe1135.jar" />
+        sha1="79e0860b9978dc57c7ac1cac7882bedd376f750b">
+        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\ContactsApp-realm-unspecified_15b1ce36667e1d1da1d24bf12386c05297873dbb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -531,15 +558,6 @@
         revision="25.0.1"
         sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
         <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_3c8006c9f279f6c383accf328d184b45f57a5acb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Harvey Roberts.DESKTOP-NRLNOQM\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="D:\Sync\CS Dev\React-Native\ContactsApp\ContactsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_baf961b4ba73955222092bbe738b43dfdddecbd9.jar" />
     </item>
 
 </items>
